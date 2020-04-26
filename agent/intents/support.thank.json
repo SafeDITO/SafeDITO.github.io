@@ -26,10 +26,46 @@
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": 4,
           "lang": "en",
           "condition": "",
-          "speech": "You\u0027re welcome. Do you have any other questions?"
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "You\u0027re welcome. Do you have any other questions?"
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Start health screening",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "text": "Announcements",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "text": "Emergency Hotlines",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "image": {},
+                      "text": "I have some questions",
+                      "link": ""
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
         },
         {
           "type": "simple_response",

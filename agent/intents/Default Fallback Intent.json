@@ -10,15 +10,49 @@
       "parameters": [],
       "messages": [
         {
-          "type": 0,
+          "type": 4,
           "lang": "en",
           "condition": "",
-          "speech": [
-            "Sorry, I don\u0027t know how to answer that.",
-            "I\u0027m not sure how to answer that question. Try rephrasing it.",
-            "I don\u0027t understand the question.",
-            "Hmm, I\u0027m not sure I know that."
-          ]
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Ooops, sorry I don\u0027t know how to answer that. Can you try rephrasing it?",
+                  "type": "description",
+                  "text": [
+                    "You can ask me questions or you can also choose from pre-defined options below."
+                  ]
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Start Health Screening",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "image": {},
+                      "text": "Ask Questions",
+                      "link": ""
+                    },
+                    {
+                      "image": {},
+                      "text": "Emergency Hotlines",
+                      "link": ""
+                    },
+                    {
+                      "text": "How many COVID-19 confirmed cases worldwide?",
+                      "link": "",
+                      "image": {}
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
         }
       ],
       "defaultResponsePlatforms": {

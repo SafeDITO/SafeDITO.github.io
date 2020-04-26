@@ -1,5 +1,5 @@
 {
-  "description": "SafeDITO - Disaster Risk Reduction Management Chatbot",
+  "description": "SafeDITO - Virtual Assistant for Disaster, Disease and Emergency",
   "language": "en",
   "shortDescription": "",
   "examples": "",
@@ -7,8 +7,8 @@
   "disableInteractionLogs": false,
   "disableStackdriverLogs": true,
   "googleAssistant": {
-    "googleAssistantCompatible": true,
-    "project": "",
+    "googleAssistantCompatible": false,
+    "project": "safedito-genvdi",
     "welcomeIntentSignInRequired": false,
     "startIntents": [],
     "systemIntents": [],
@@ -29,26 +29,24 @@
     "autoPreviewEnabled": false,
     "isDeviceAgent": false
   },
-  "defaultTimezone": "America/Los_Angeles",
+  "defaultTimezone": "Asia/Hong_Kong",
   "webhook": {
-    "url": "https://us-central1-covid-19-faq-and-screener-gjrp.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "url": "https://us-central1-safedito-genvdi.cloudfunctions.net/dialogflowFirebaseFulfillment",
     "username": "",
-    "headers": {
-      "": ""
-    },
+    "headers": {},
     "available": true,
     "useForDomains": false,
     "cloudFunctionsEnabled": true,
     "cloudFunctionsInitialized": true
   },
   "isPrivate": true,
-  "customClassifierMode": "use.instead",
-  "mlMinConfidence": 0.7,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
   "supportedLanguages": [],
   "onePlatformApiVersion": "v2beta1",
   "analyzeQueryTextSentiment": false,
   "enabledKnowledgeBaseNames": [],
-  "knowledgeServiceConfidenceAdjustment": -0.7,
+  "knowledgeServiceConfidenceAdjustment": -0.4,
   "dialogBuilderMode": false,
   "baseActionPackagesUrl": ""
 }

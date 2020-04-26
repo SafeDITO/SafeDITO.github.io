@@ -38,24 +38,24 @@
                   "type": "chips",
                   "options": [
                     {
-                      "link": "",
-                      "image": {},
-                      "text": "Start health screening"
-                    },
-                    {
-                      "link": "",
-                      "image": {},
-                      "text": "Announcements"
-                    },
-                    {
-                      "text": "Emergency Hotlines",
+                      "text": "Start Health Screening",
                       "link": "",
                       "image": {}
                     },
                     {
+                      "link": "",
                       "image": {},
-                      "text": "I have some questions",
-                      "link": ""
+                      "text": "Ask Questions"
+                    },
+                    {
+                      "link": "",
+                      "image": {},
+                      "text": "Emergency Hotlines"
+                    },
+                    {
+                      "link": "",
+                      "image": {},
+                      "text": "How many COVID-19 confirmed cases worldwide?"
                     }
                   ]
                 }

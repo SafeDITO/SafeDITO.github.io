@@ -1,0 +1,45 @@
+{
+  "id": "a9c86f76-ccde-47ad-a834-8459748606b8",
+  "name": "support.gen-questions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "Currently supported topics are:",
+                    "\u003e\u003e COVID-19 Virus",
+                    "\u003e\u003e First Aids"
+                  ],
+                  "title": "Go ahead, you can ask me questions"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

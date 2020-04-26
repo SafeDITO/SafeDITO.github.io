@@ -42,14 +42,14 @@
                       "image": {}
                     },
                     {
-                      "text": "Not satisfied",
                       "link": "",
-                      "image": {}
+                      "image": {},
+                      "text": "Not satisfied"
                     },
                     {
+                      "image": {},
                       "text": "I prefer not to answer",
-                      "link": "",
-                      "image": {}
+                      "link": ""
                     }
                   ]
                 }

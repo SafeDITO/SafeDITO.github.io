@@ -1,0 +1,80 @@
+{
+  "id": "1382c155-82e2-48ca-8c7c-89f2ceb47736",
+  "name": "coronavirus.treatment",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d84e7e38-1a35-40a7-bf8e-91fdd444a8ff",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eAccording to the World Health Organization, to date, there is no specific medicine to prevent or treat \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. Antibiotics do not work against viruses; they only work on bacterial infections. \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. They should only be used as directed by a physician to treat a bacterial infection. \u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eAccording to the World Health Organization, to date, there is no specific medicine to prevent or treat \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. Antibiotics do not work against viruses; they only work on bacterial infections. \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. They should only be used as directed by a physician to treat a bacterial infection. \u003c/speak\u003e",
+          "displayText": "According to the World Health Organization, to date, there is no specific medicine to prevent or treat COVID-19. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. Antibiotics do not work against viruses; they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection."
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Prevention"
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "WHO\u0027s response on possible treatment for coronavirus",
+          "url": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "According to the World Health Organization, to date, there is no specific medicine to prevent or treat COVID-19. However, those affected should receive care to relieve symptoms. People with serious illness should be hospitalized. Most patients recover thanks to supportive care. Antibiotics do not work against viruses; they only work on bacterial infections. COVID-19 is caused by a virus, so antibiotics do not work. Antibiotics should not be used as a means of prevention or treatment of COVID-19. They should only be used as directed by a physician to treat a bacterial infection. "
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

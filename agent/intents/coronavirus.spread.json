@@ -1,0 +1,73 @@
+{
+  "id": "279cd436-0d82-4afc-bd30-ecf5b1c1ab6e",
+  "name": "coronavirus.spread",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "32c5c88c-e0cc-4f31-90ff-34afd0c9c507",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "1f79d36b-a272-41bd-965e-34509cbe29cf",
+          "required": false,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The virus is thought to spread mainly between people who are in close contact with one another (within about 6 feet), through respiratory droplets produced when an infected person coughs or sneezes.These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Some people without symptoms may be able to spread virus."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe virus is thought to spread mainly between people who are in close contact with one another (within about 6 feet), through respiratory droplets produced when an infected person coughs or sneezes.These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Some people without symptoms may be able to spread virus.\u003c/speak\u003e",
+          "displayText": "The virus is thought to spread mainly between people who are in close contact with one another (within about 6 feet), through respiratory droplets produced when an infected person coughs or sneezes.These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Some people without symptoms may be able to spread virus."
+        },
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe virus is thought to spread mainly between people who are in close contact with one another (within about 6 feet), through respiratory droplets produced when an infected person coughs or sneezes.These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Some people without symptoms may be able to spread virus.\u003c/speak\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

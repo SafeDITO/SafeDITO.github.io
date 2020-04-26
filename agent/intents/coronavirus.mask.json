@@ -1,0 +1,77 @@
+{
+  "id": "7fe1e41f-6c1d-4f12-b8f7-1bd408a483e9",
+  "name": "coronavirus.mask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe World Health Organization urges everyone to use masks wisely.  Only wear a mask if you are feeling sick and have \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e symptoms (especially coughing) or looking after someone who may have \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe World Health Organization urges everyone to use masks wisely.  Only wear a mask if you are feeling sick and have \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e symptoms (especially coughing) or looking after someone who may have \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e",
+          "displayText": "The World Health Organization urges everyone to use masks wisely.  Only wear a mask if you are feeling sick and have COVID-19 symptoms (especially coughing) or looking after someone who may have COVID-19."
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "WHO Advice on When to use masks",
+          "formattedText": "Watch this video to learn about using masks rationally",
+          "image": {
+            "url": "",
+            "accessibilityText": ""
+          },
+          "buttons": [
+            {
+              "title": "When to use masks",
+              "openUrlAction": {
+                "url": "https://www.youtube.com/watch?v\u003dDed_AxFfJoQ\u0026feature\u003demb_title",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "What is the correct way to wear and dispose of masks?",
+          "url": "https://www.youtube.com/watch?v\u003dlrvFrH_npQI"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Center for Disease Control and Prevention recommends that you cover your mouth and nose with a cloth when you go out. Children under age 2 and people who have trouble breathing or might not be able to take off their own mask shouldn\u0027t wear one. Don\u0027t wear a mask intended for health care workers and always continue to keep at least 6 feet away from other people, even when wearing a mask."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,95 @@
+{
+  "id": "604c4143-839e-499b-8b74-2f1b0cb18a5c",
+  "name": "coronavirus.protect",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d48529b9-ea2a-408d-bc44-285af1aba3a1",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe virus enters your body through your eyes, nose and/or mouth, so it is important to avoid touching your face with unwashed hands. Wash hands with soap and water for at least 20 seconds. It is also recommended to practice social distancing by staying 6 feet or more away from other people.\u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe virus enters your body through your eyes, nose and/or mouth, so it is important to avoid touching your face with unwashed hands. Wash hands with soap and water for at least 20 seconds. It is also recommended to practice social distancing by staying 6 feet or more away from other people.\u003c/speak\u003e",
+          "displayText": "The virus enters your body through your eyes, nose and/or mouth, so it is important to avoid touching your face with unwashed hands. Wash hands with soap and water for at least 20 seconds. It is also recommended to practice social distancing by staying 6 feet or more away from other people."
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "formattedText": "CDC\u0027s recommended steps to prevent illness",
+          "image": {
+            "url": "",
+            "accessibilityText": ""
+          },
+          "buttons": [
+            {
+              "title": "Steps to Prevent Illness",
+              "openUrlAction": {
+                "url": "https://www.cdc.gov/coronavirus/2019-ncov/about/prevention.html?CDC_AA_refVal\u003dhttps%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fabout%2Fprevention-treatment.html",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Face Masks"
+            },
+            {
+              "title": "Wash Hands"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The virus enters your body through your eyes, nose and/or mouth, so it is important to avoid touching your face with unwashed hands. Wash hands with soap and water for at least 20 seconds. It is also recommended to practice social distancing by staying 6 feet or more away from other people."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

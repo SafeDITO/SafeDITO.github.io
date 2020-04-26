@@ -1,0 +1,439 @@
+[
+  {
+    "id": "92b58e77-b9a2-4ff1-a42f-708fc10dc0db",
+    "data": [
+      {
+        "text": "can the ",
+        "userDefined": false
+      },
+      {
+        "text": "virsus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " stay on ",
+        "userDefined": false
+      },
+      {
+        "text": "food",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9c024b95-6a3d-4ffe-8845-b10bee6c5d65",
+    "data": [
+      {
+        "text": "can the ",
+        "userDefined": false
+      },
+      {
+        "text": "virsus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " stay on food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef031266-a3c5-4c6a-a2e9-5e0ef90d909a",
+    "data": [
+      {
+        "text": "can the virus stay on a surface",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ea40a077-a52f-461a-9aba-1a80cf789bbc",
+    "data": [
+      {
+        "text": "can the virus stick to surfaces",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ddc17347-87fd-46ca-9254-bc993a6935a8",
+    "data": [
+      {
+        "text": "can the virus stay on ",
+        "userDefined": false
+      },
+      {
+        "text": "clothes",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7dea45d7-5d3c-44b3-8a82-138f4c47c99d",
+    "data": [
+      {
+        "text": "How long does the last on ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "835875ab-45f3-4528-ac34-06c1d449755d",
+    "data": [
+      {
+        "text": "How long does the virus last on that Hill ",
+        "userDefined": false
+      },
+      {
+        "text": "surface",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "50ec0dcd-2887-4ca5-b26b-c22ece9ccb52",
+    "data": [
+      {
+        "text": "How long does the virus last ",
+        "userDefined": false
+      },
+      {
+        "text": "paper",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "916cf72c-22ba-4b9a-986e-ee09937b429a",
+    "data": [
+      {
+        "text": "How long does the virus live on ",
+        "userDefined": false
+      },
+      {
+        "text": "paper",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b8233026-6735-4fde-9906-bfc1351f974e",
+    "data": [
+      {
+        "text": "How long can the virus last on ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cf43e026-af09-44ad-909e-bc0f847d010e",
+    "data": [
+      {
+        "text": "how long can the virus live on ",
+        "userDefined": false
+      },
+      {
+        "text": "plastic",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f5801143-3cde-44ec-b34c-d949b9aaed3d",
+    "data": [
+      {
+        "text": "how long can the virus stay alive on ",
+        "userDefined": false
+      },
+      {
+        "text": "clothes",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4e2eafcb-02c5-409c-91e9-36e98c3c3e0f",
+    "data": [
+      {
+        "text": "how long can the virus live on ",
+        "userDefined": false
+      },
+      {
+        "text": "paper",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cccb2bf5-0411-424e-b341-b4165041ad00",
+    "data": [
+      {
+        "text": "how long does the virus last on ",
+        "userDefined": false
+      },
+      {
+        "text": "metal surfaces",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "755bba13-45df-46a3-874f-fbc49cfafe89",
+    "data": [
+      {
+        "text": "how long does the virus last on ",
+        "userDefined": false
+      },
+      {
+        "text": "metal",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ce59a3e-1221-44d7-9403-ff16a138ca33",
+    "data": [
+      {
+        "text": "How long does the virus remain on ",
+        "userDefined": false
+      },
+      {
+        "text": "surfaces",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2652dbc9-2953-4ca0-9d8a-1cd82e9e1012",
+    "data": [
+      {
+        "text": "how long on ",
+        "userDefined": false
+      },
+      {
+        "text": "surfaces",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1ff20377-44ed-4b10-8379-72beec39efa3",
+    "data": [
+      {
+        "text": "Can the virus spread from surfaces ?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c709c473-9d17-41f4-8c24-84affd3bbeb7",
+    "data": [
+      {
+        "text": "How long ",
+        "userDefined": false
+      },
+      {
+        "text": "coronaviruses",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " may linger on contaminated ",
+        "userDefined": false
+      },
+      {
+        "text": "surfaces",
+        "alias": "surface",
+        "meta": "@surface",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bfa040b4-8690-4b68-80c5-260d7de177be",
+    "data": [
+      {
+        "text": "how long can the new virus live on surface?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9fd26d38-30b8-4c78-a71f-fd98c2af4c92",
+    "data": [
+      {
+        "text": "how long does the virus survive on surface?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "86279173-5aa1-4102-99ed-ded7e8d0ebad",
+    "data": [
+      {
+        "text": "How long does the ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " last on surface?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

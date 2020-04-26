@@ -1,0 +1,69 @@
+{
+  "id": "7a8a0c35-0383-4378-9ca6-051449c3693d",
+  "name": "coronavirus.testing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ba75bb9e-b9f3-413b-937c-4cce222f6e96",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe process and locations for testing vary from place to place. Contact your state, local, tribal, or territorial department for more information, or reach out to a medical provider. According to the Center for Disease Control and Prevention, not everyone needs to be tested for \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. Visit their website for guidance for who should be tested, but decisions about testing are at the discretion of state and local health departments and/or individual clinicians.\u003c/speak\u003e",
+          "displayText": "The process and locations for testing vary from place to place. Contact your state, local, tribal, or territorial department for more information, or reach out to a medical provider. According to the Center for Disease Control and Prevention, not everyone needs to be tested for COVID-19. Visit their website for guidance for who should be tested, but decisions about testing are at the discretion of state and local health departments and/or individual clinicians."
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "California COVID-19 risk screening and testing",
+          "url": "https://www.projectbaseline.com/study/covid-19/"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The process and locations for testing vary from place to place. Contact your state, local, tribal, or territorial department for more information, or reach out to a medical provider. According to the Center for Disease Control and Prevention, not everyone needs to be tested for COVID-19. Visit their website for guidance for who should be tested, but decisions about testing are at the discretion of state and local health departments and/or individual clinicians."
+        },
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe process and locations for testing vary from place to place. Contact your state, local, tribal, or territorial department for more information, or reach out to a medical provider. According to the Center for Disease Control and Prevention, not everyone needs to be tested for \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. Visit their website for guidance for who should be tested, but decisions about testing are at the discretion of state and local health departments and/or individual clinicians.\u003c/speak\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

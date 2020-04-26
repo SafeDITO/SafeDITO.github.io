@@ -1,0 +1,69 @@
+{
+  "id": "32622a7e-ecee-4e92-90c5-5fdab61dbb50",
+  "name": "coronavirus.stock_up",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e9662e47-d255-4355-b3d2-4efa0ceff819",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, create a household plan to help protect your health and the health of those you care about in the event of an outbreak of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e in your community. You should base the details of your household plan on the needs and daily routine of your household members. Visit the CDC website for a planning guide.\u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, create a household plan to help protect your health and the health of those you care about in the event of an outbreak of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e in your community. You should base the details of your household plan on the needs and daily routine of your household members. Visit the CDC website for a planning guide.\u003c/speak\u003e",
+          "displayText": "According to the Center for Disease Control and Prevention, create a household plan to help protect your health and the health of those you care about in the event of an outbreak of COVID-19 in your community. You should base the details of your household plan on the needs and daily routine of your household members. Visit the CDC website for a planning guide."
+        },
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "CDC\u0027s recommendation on what to stock up on supplies",
+          "url": "https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html#Have-supplies-on-hand"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "According to the Center for Disease Control and Prevention, create a household plan to help protect your health and the health of those you care about in the event of an outbreak of COVID-19 in your community. You should base the details of your household plan on the needs and daily routine of your household members. Visit the CDC website for a planning guide."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

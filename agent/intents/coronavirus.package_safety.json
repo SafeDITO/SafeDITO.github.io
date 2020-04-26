@@ -1,0 +1,61 @@
+{
+  "id": "d064b6f7-7f64-4fad-af2c-49eb5aac803f",
+  "name": "coronavirus.package_safety",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "f73ea7cc-235e-4f1c-a7f2-d06fff954103",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eAccording to the World Health Organization it is unlikely that an infected person will contaminate commercial goods and there is low risk of catching the virus that causes \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e from a package.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "According to the World Health Organization it is unlikely that an infected person will contaminate commercial goods and there is low risk of catching the virus that causes COVID-19 from a package."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eAccording to the World Health Organization it is unlikely that an infected person will contaminate commercial goods and there is low risk of catching the virus that causes \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e from a package.\u003c/speak\u003e",
+          "displayText": "According to the World Health Organization it is unlikely that an infected person will contaminate commercial goods and there is low risk of catching the virus that causes COVID-19 from a package."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

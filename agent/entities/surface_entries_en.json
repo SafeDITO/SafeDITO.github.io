@@ -1,0 +1,54 @@
+[
+  {
+    "value": "surface",
+    "synonyms": [
+      "surface",
+      "surfaces"
+    ]
+  },
+  {
+    "value": "paper",
+    "synonyms": [
+      "paper",
+      "money",
+      "book"
+    ]
+  },
+  {
+    "value": "plastic",
+    "synonyms": [
+      "plastic",
+      "plastics",
+      "pvc"
+    ]
+  },
+  {
+    "value": "wood",
+    "synonyms": [
+      "wood",
+      "wooden material",
+      "table",
+      "desk"
+    ]
+  },
+  {
+    "value": "metal",
+    "synonyms": [
+      "metal",
+      "copper",
+      "aluminum",
+      "door nob"
+    ]
+  },
+  {
+    "value": "clothes",
+    "synonyms": [
+      "clothes",
+      "fabric",
+      "jacket",
+      "coat",
+      "cloth",
+      "towel"
+    ]
+  }
+]

@@ -1,0 +1,95 @@
+{
+  "id": "36b03878-fadd-492a-848f-76574bba507a",
+  "name": "support.bye-thank",
+  "auto": true,
+  "contexts": [
+    "thank"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "satisfied",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "satisfaction",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eBefore you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?\u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eBefore you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?\u003c/speak\u003e",
+          "displayText": "Before you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Before you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "image": {},
+                      "text": "Very satisfied",
+                      "link": ""
+                    },
+                    {
+                      "text": "Not satisfied",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "image": {},
+                      "text": "I prefer not to answer",
+                      "link": ""
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true,
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

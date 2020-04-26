@@ -1,0 +1,73 @@
+{
+  "id": "3bacca5d-dc2c-430a-97bd-16bd5e91afb6",
+  "name": "coronavirus.travel",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "0675952d-56cd-48bf-84ed-ae1cfdf54409",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "e8f1b10f-314f-4a76-a50d-10cb19b98634",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe guidelines for travel are changing often. Check the Center for Disease Control and Prevention\u0027s website for travel notices before planning travel.\u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe guidelines for travel are changing often. Check the Center for Disease Control and Prevention\u0027s website for travel notices before planning travel.\u003c/speak\u003e",
+          "displayText": "The guidelines for travel are changing often. Check the Center for Disease Control and Prevention\u0027s website for travel notices before planning travel."
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The guidelines for travel are changing often. Check the Center for Disease Control and Prevention\u0027s website for travel notices before planning travel."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

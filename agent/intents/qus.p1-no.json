@@ -1,0 +1,83 @@
+{
+  "id": "3212dd7a-ce58-440b-bf25-fa0f26a82c76",
+  "name": "qus.p1-no",
+  "auto": true,
+  "contexts": [
+    "ctx-p1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-p2",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "risk_labels",
+          "parameters": {},
+          "lifespan": 20
+        }
+      ],
+      "parameters": [
+        {
+          "id": "01c05761-5cbd-4302-9413-f37e9e34491b",
+          "required": false,
+          "dataType": "",
+          "name": "risk_label_p1-no",
+          "value": "LOW",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Are you 65 years of age or older?",
+                  "type": "description"
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Yes",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "text": "No",
+                      "link": "",
+                      "image": {}
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,45 @@
+{
+  "id": "f159aafb-29ae-49c9-affa-2f3408949bce",
+  "name": "qus.e1-continue",
+  "auto": true,
+  "contexts": [
+    "ctx-e1"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-e1",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "event-symptom-fever"
+    },
+    {
+      "name": "event-symptom-cough"
+    },
+    {
+      "name": "event-symptom-shortofbreath"
+    },
+    {
+      "name": "event-symptom-none"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

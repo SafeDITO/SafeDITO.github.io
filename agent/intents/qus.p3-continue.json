@@ -1,0 +1,45 @@
+{
+  "id": "0d99a307-cadb-4484-9559-43d492476c35",
+  "name": "qus.p3-continue",
+  "auto": true,
+  "contexts": [
+    "ctx-p3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-p3",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "event-health-condition-cardio"
+    },
+    {
+      "name": "event-health-condition-dm"
+    },
+    {
+      "name": "event-health-condition-lung"
+    },
+    {
+      "name": "event-health-condition-healtherisk"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

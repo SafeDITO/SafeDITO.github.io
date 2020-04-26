@@ -1,0 +1,90 @@
+{
+  "id": "b05bbca8-a39e-4972-82ea-95c51e786220",
+  "name": "support.bye",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "satisfied",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "satisfaction",
+          "parameters": {},
+          "lifespan": 5
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Before you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?"
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Very satisfied",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "text": "Not satisfied",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "text": "I prefer not to answer",
+                      "link": "",
+                      "image": {}
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eBefore you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?\u003c/speak\u003e",
+          "displayText": "Before you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?"
+        },
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eBefore you go, from \"very satisfied\" to \"not satisfied\" how would you rate the information you received today?\u003c/speak\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,486 @@
+[
+  {
+    "id": "75231305-3988-4bef-98a2-0afaf736ecc0",
+    "data": [
+      {
+        "text": "Where was ",
+        "userDefined": false
+      },
+      {
+        "text": "covid",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " detected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbca2ad8-c231-4705-aa5b-7388bd35fc2e",
+    "data": [
+      {
+        "text": "Where was ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " detected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff35ef6b-9660-4d26-bc34-e2f49f917864",
+    "data": [
+      {
+        "text": "Where was ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " detected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3afd739a-c41a-470e-9023-78d1580d5bd0",
+    "data": [
+      {
+        "text": "How did it start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c23a6bd4-3975-4bed-abb5-48d9c079a99a",
+    "data": [
+      {
+        "text": "Where is the virus ",
+        "userDefined": false
+      },
+      {
+        "text": "1st",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " found?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "90f6fd9f-f00e-4bdc-acb5-f10b8835bea6",
+    "data": [
+      {
+        "text": "Where does the ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": true
+      },
+      {
+        "text": " come from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d929dc0a-1ab3-4d88-a283-551292e467cf",
+    "data": [
+      {
+        "text": "where did ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "0740e62a-1376-44d1-a915-db5251d1eb7f",
+    "data": [
+      {
+        "text": "how did the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "updated": 0
+  },
+  {
+    "id": "ca2cec07-a886-44fd-9d2f-19f7d1e9ea87",
+    "data": [
+      {
+        "text": "where did ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": true
+      },
+      {
+        "text": " start",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c6ecadaf-7e10-48c4-81e9-6938ad9e128e",
+    "data": [
+      {
+        "text": "where does the virus originally come from",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a5586d8-f8e7-46ee-9462-4917e96a4da6",
+    "data": [
+      {
+        "text": "where is the corona virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7cec5aa1-78d1-4635-8348-77e28eae2bb1",
+    "data": [
+      {
+        "text": "where is the coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b62bbed4-fc3f-4631-be33-3dbca7eb486f",
+    "data": [
+      {
+        "text": "where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " from?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e3267266-7491-448b-a495-43376c6fc0d9",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "Coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " or originated in ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e455b8af-008f-48b2-a024-b30e7bcee6c6",
+    "data": [
+      {
+        "text": "Is ",
+        "userDefined": false
+      },
+      {
+        "text": "Coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " from ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9c779ce-589c-40b5-8c66-015eabb1286b",
+    "data": [
+      {
+        "text": "wuhan",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8941c20c-f124-4682-8b78-b1e04a6a12f9",
+    "data": [
+      {
+        "text": "where does ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " occur?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "04566a38-d6a1-401c-8784-9a818607e369",
+    "data": [
+      {
+        "text": "Where is ",
+        "userDefined": false
+      },
+      {
+        "text": "covid-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " found?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99680ff5-1a2b-453f-9cad-1432a928ae6c",
+    "data": [
+      {
+        "text": "where is ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " originated?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d77c1407-c4dd-4ed5-8dec-e651c3bf82ba",
+    "data": [
+      {
+        "text": "what do we know about the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": "\u0027s origin?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8dd34cb-c124-497e-a234-4dd8a6f88abd",
+    "data": [
+      {
+        "text": "Where is the ",
+        "userDefined": false
+      },
+      {
+        "text": "virus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "first",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " detected?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

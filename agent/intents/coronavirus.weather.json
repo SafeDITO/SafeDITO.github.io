@@ -1,0 +1,48 @@
+{
+  "id": "a40626c6-50a4-4c54-908b-06348ed41b6d",
+  "name": "coronavirus.weather",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe Center for Disease Control and Prevention reports that it is not yet known whether weather and temperature impact the spread of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months. At this time, it is not known whether the spread of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e will decrease when weather becomes warmer. There is much more to learn about the transmissibility, severity, and other features associated with \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e and investigations are ongoing.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Center for Disease Control and Prevention reports that it is not yet known whether weather and temperature impact the spread of COVID-19. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months. At this time, it is not known whether the spread of COVID-19 will decrease when weather becomes warmer. There is much more to learn about the transmissibility, severity, and other features associated with COVID-19 and investigations are ongoing."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe Center for Disease Control and Prevention reports that it is not yet known whether weather and temperature impact the spread of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months. At this time, it is not known whether the spread of \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e will decrease when weather becomes warmer. There is much more to learn about the transmissibility, severity, and other features associated with \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e and investigations are ongoing.\u003c/speak\u003e",
+          "displayText": "The Center for Disease Control and Prevention reports that it is not yet known whether weather and temperature impact the spread of COVID-19. Some other viruses, like the common cold and flu, spread more during cold weather months but that does not mean it is impossible to become sick with these viruses during other months. At this time, it is not known whether the spread of COVID-19 will decrease when weather becomes warmer. There is much more to learn about the transmissibility, severity, and other features associated with COVID-19 and investigations are ongoing."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

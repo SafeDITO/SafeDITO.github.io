@@ -1,0 +1,74 @@
+[
+  {
+    "id": "79e2888c-45de-4707-adc9-ff103be61398",
+    "data": [
+      {
+        "text": "How long is the incubation?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b97f6f8a-ad4b-4855-8f51-ff7a4b9994fe",
+    "data": [
+      {
+        "text": "incubation period for coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a1c42e11-e632-41b0-b6dc-a8eb766ab80a",
+    "data": [
+      {
+        "text": "how long does it take before I show symptoms?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "67fcdc84-ae48-4561-a31c-797d0d5bd2ae",
+    "data": [
+      {
+        "text": "How long is the incubation period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0d5e5139-b213-4f30-aeb2-cab7aa53e2a1",
+    "data": [
+      {
+        "text": "How long is the incubation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "89ab5314-af3a-494c-b314-edf1b1a0bb21",
+    "data": [
+      {
+        "text": "How long is the incubation period for COVID-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

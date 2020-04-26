@@ -1,0 +1,302 @@
+[
+  {
+    "id": "4a917e65-203b-4bea-bab7-358a0b5b0cac",
+    "data": [
+      {
+        "text": "hello hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ab2ba3dc-808f-48a2-a385-81d143a36d2f",
+    "data": [
+      {
+        "text": "What can I ask?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ac6d7d1-04ac-4161-9063-8fe6f3066daa",
+    "data": [
+      {
+        "text": "what is it that you help with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "99d34081-2e33-477e-9fba-29f5f89f2ad9",
+    "data": [
+      {
+        "text": "what can you help me with",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "260a2e2e-08f7-40d8-b946-5bc104fbbc7b",
+    "data": [
+      {
+        "text": "How can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cdea6bc-e6d8-4e56-a25a-f50af72acf3c",
+    "data": [
+      {
+        "text": "What can i ask you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1c909862-f6fd-43d4-b6dc-dee2454d4cdb",
+    "data": [
+      {
+        "text": "what can you help with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6ad5946b-410a-4b4d-88f3-88977fa8d8b5",
+    "data": [
+      {
+        "text": "what can I ask",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "844f709b-0f77-4299-8663-662ee29d99d6",
+    "data": [
+      {
+        "text": "What can you help me with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "eda78dd3-b713-4786-995d-d70c0613473e",
+    "data": [
+      {
+        "text": "How can you help me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a9ccbcf5-30b0-4b23-a152-70bd3e87bd66",
+    "data": [
+      {
+        "text": "what can you help me with?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "723fb63d-1c8b-4be8-8e69-dae5f107fda6",
+    "data": [
+      {
+        "text": "what can I ask you?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e9fcca0d-5c15-45ef-b09b-7e6675be689b",
+    "data": [
+      {
+        "text": "what can you answer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cfbf46c0-1d41-4cff-914a-f76f120c3125",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a9e7da8c-aef8-4c80-b126-158c9f570eb2",
+    "data": [
+      {
+        "text": "hey there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bc1f62a6-f84a-46b8-a1c0-985c934faa07",
+    "data": [
+      {
+        "text": "hello there",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "ff1e90c9-e3e6-4a9b-830c-76f989e91c45",
+    "data": [
+      {
+        "text": "greetings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f1e6749-9365-4d87-9d07-b2b20467fda9",
+    "data": [
+      {
+        "text": "trying to say hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "123291eb-bc73-4c0f-b338-afb5d56c3415",
+    "data": [
+      {
+        "text": "just going to say hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "290c43f9-0ee6-41b7-920c-2616ed453aab",
+    "data": [
+      {
+        "text": "howdy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "82bd12ca-85b4-459c-98cb-93e5ac69d9ad",
+    "data": [
+      {
+        "text": "heya",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95809bbb-e6d8-4f5d-abfd-535b2a818304",
+    "data": [
+      {
+        "text": "hey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4fe6215b-b733-4b13-97b8-cd7393a45d70",
+    "data": [
+      {
+        "text": "hi there!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef871977-7f0e-4462-ac83-a1b62b3fdd94",
+    "data": [
+      {
+        "text": "hello",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "07c61d46-c9b4-41f8-b04b-633397972040",
+    "data": [
+      {
+        "text": "hi",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  }
+]

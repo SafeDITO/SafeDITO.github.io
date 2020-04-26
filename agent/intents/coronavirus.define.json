@@ -1,0 +1,83 @@
+{
+  "id": "e54f7850-5a38-4d58-bce2-5301419f0f56",
+  "name": "coronavirus.define",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe World Health Organization states that Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to a more severe lung infection. \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e is the disease caused by a novel coronavirus.\u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe World Health Organization states that Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to a more severe lung infection. \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e is the disease caused by a novel coronavirus.\u003c/speak\u003e",
+          "displayText": "The World Health Organization states that Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to a more severe lung infection. COVID-19 is the disease caused by a novel coronavirus."
+        },
+        {
+          "type": "basic_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "title": "COVID-19",
+          "subtitle": "COVID-19 is a new strain of virus that has not been previously identified in humans.",
+          "image": {
+            "url": "https://a16z.com/wp-content/uploads/2020/01/outbreak-coronavirus-world_cdc.jpg",
+            "accessibilityText": "coronavirus"
+          },
+          "buttons": [
+            {
+              "title": "WHO on Coronavirus",
+              "openUrlAction": {
+                "url": "https://www.who.int/health-topics/coronavirus",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              }
+            }
+          ]
+        },
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "Symptoms"
+            },
+            {
+              "title": "Face mask"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The World Health Organization states that Coronaviruses (CoV) are a large family of viruses that cause illness ranging from the common cold to a more severe lung infection. COVID-19 is the disease caused by a novel coronavirus."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

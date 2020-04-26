@@ -1,0 +1,106 @@
+{
+  "id": "36192e2f-6997-48f5-b61d-72037e24e87e",
+  "name": "qus.s3-multi",
+  "auto": true,
+  "contexts": [
+    "ctx-s3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-s3",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "ctx-e1",
+          "parameters": {},
+          "lifespan": 10
+        },
+        {
+          "name": "ctx-severe",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Do you have any of the following symptoms? Choose all that apply:",
+                  "type": "description"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Fever (temperature \u003e100.4 °F or 38 °C) or feeling feverish",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-symptom-fever",
+                    "languageCode": "en"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Shortness of breath (not severe)",
+                  "subtitle": "",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "event-symptom-shortofbreath"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Cough",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-symptom-cough",
+                    "languageCode": "en"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "None of the above",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-symptom-none",
+                    "languageCode": "en"
+                  },
+                  "type": "list"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

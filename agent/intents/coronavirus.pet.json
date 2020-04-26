@@ -1,0 +1,61 @@
+{
+  "id": "97ef32e4-d411-4842-9ac9-42fd75962bea",
+  "name": "coronavirus.pet",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d7f0d669-6722-49c7-b975-b6f5972e5573",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eTo date, the Center for Disease Control and Prevention has not received any reports of pets or other animals becoming sick with \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. At this time, there is no evidence that companion animals including pets can spread \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. However, since animals can spread other diseases to people, it’s always a good idea to wash your hands after being around animals. \u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "To date, the Center for Disease Control and Prevention has not received any reports of pets or other animals becoming sick with COVID-19. At this time, there is no evidence that companion animals including pets can spread COVID-19. However, since animals can spread other diseases to people, it’s always a good idea to wash your hands after being around animals. "
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eTo date, the Center for Disease Control and Prevention has not received any reports of pets or other animals becoming sick with \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. At this time, there is no evidence that companion animals including pets can spread \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. However, since animals can spread other diseases to people, it’s always a good idea to wash your hands after being around animals. \u003c/speak\u003e",
+          "displayText": "To date, the Center for Disease Control and Prevention has not received any reports of pets or other animals becoming sick with COVID-19. At this time, there is no evidence that companion animals including pets can spread COVID-19. However, since animals can spread other diseases to people, it’s always a good idea to wash your hands after being around animals."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

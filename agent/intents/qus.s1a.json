@@ -1,0 +1,92 @@
+{
+  "id": "075be304-ce0a-4ea0-a317-4b658109c53f",
+  "name": "qus.s1a",
+  "auto": true,
+  "contexts": [
+    "start-screener"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-extreme",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ctx-s1b",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "start-screener",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Do you have any of these life-threatening symptoms?  Gasping for air or extreme difficulty breathing. Blue-colored lips or face. Severe chest pain or pressure. Severe constant dizziness or lightheadedness.",
+          "replies": [
+            "yes",
+            "no"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "• Gasping for air or extreme difficulty breathing",
+                    "• Blue-colored lips or face",
+                    "• Severe chest pain or pressure",
+                    "• Severe constant dizziness or lightheadedness"
+                  ],
+                  "title": "Do you have any of these life-threatening symptoms?"
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "image": {},
+                      "text": "Yes",
+                      "link": ""
+                    },
+                    {
+                      "text": "No",
+                      "link": "",
+                      "image": {}
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

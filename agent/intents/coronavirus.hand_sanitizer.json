@@ -1,0 +1,48 @@
+{
+  "id": "b5bad0e1-a46c-44a2-bb0a-0ee15216913a",
+  "name": "coronavirus.hand_sanitizer",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "CDC recommends washing hands with soap and water for at least 20 seconds or, using alcohol-based hand sanitizer with at least 60% alcohol when soap and water are not available. These actions are part of everyday preventive actions individuals can take to slow the spread of respiratory diseases like COVID-19.  CDC does not encourage the production and use of homemade hand sanitizer."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eCDC recommends washing hands with soap and water for at least 20 seconds or, using alcohol-based hand sanitizer with at least 60% alcohol when soap and water are not available. These actions are part of everyday preventive actions individuals can take to slow the spread of respiratory diseases like \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e",
+          "displayText": "CDC recommends washing hands with soap and water for at least 20 seconds or, using alcohol-based hand sanitizer with at least 60% alcohol when soap and water are not available. These actions are part of everyday preventive actions individuals can take to slow the spread of respiratory diseases like COVID-19."
+        },
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eCDC recommends washing hands with soap and water for at least 20 seconds or, using alcohol-based hand sanitizer with at least 60% alcohol when soap and water are not available. These actions are part of everyday preventive actions individuals can take to slow the spread of respiratory diseases like \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

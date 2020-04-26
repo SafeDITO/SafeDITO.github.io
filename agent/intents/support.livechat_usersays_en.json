@@ -1,0 +1,110 @@
+[
+  {
+    "id": "f61f9f42-fcaf-4294-850c-655826f42f49",
+    "data": [
+      {
+        "text": "I want to talk to a live agent.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8c26c71a-8334-455e-80f1-c4a26aa81edb",
+    "data": [
+      {
+        "text": "representative transfer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d2d89045-ab46-4ad4-ad88-0fe90575c02e",
+    "data": [
+      {
+        "text": "talk to representative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "820cd08b-7b2a-4b49-8f04-d0f154ebf36a",
+    "data": [
+      {
+        "text": "human agent please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9a1b66c0-eec8-46c1-9d2d-9079d8ad9d7d",
+    "data": [
+      {
+        "text": "i need to talk to a human",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4c3a88a4-3d21-4506-a557-ee4c2b3aa2c9",
+    "data": [
+      {
+        "text": "transfer me to a live agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6f233499-9235-4e7d-8581-97beed1b2101",
+    "data": [
+      {
+        "text": "talk to a nurse",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "14639e30-852a-4873-8978-db2a317f2fc3",
+    "data": [
+      {
+        "text": "chat with a representative",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1998582b-13b2-43a9-b101-8d74f2a1e195",
+    "data": [
+      {
+        "text": "I want to talk to a live agent",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

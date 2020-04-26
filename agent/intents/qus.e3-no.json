@@ -1,0 +1,87 @@
+{
+  "id": "0142d149-08ba-49ee-ad70-3b4fd2fb5bdc",
+  "name": "qus.e3-no",
+  "auto": true,
+  "contexts": [
+    "ctx-e3"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-p1",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ctx-e3",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "risk_labels",
+          "parameters": {},
+          "lifespan": 20
+        }
+      ],
+      "parameters": [
+        {
+          "id": "6e524fe1-942a-4836-b7a9-bdbd1ce35bc8",
+          "required": false,
+          "dataType": "",
+          "name": "risk_label_e3-no",
+          "value": "LOW",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "In the past 14 days, have you had close contact* with someone with known or suspected COVID-19 or possible COVID-19?",
+                  "subtitle": "*Within approximately 6 feet (2 meters) for a prolonged period of time while caring for, living with, visiting, or sharing a healthcare waiting area with the person, or having direct contact with infectious secretions, such as being coughed on.",
+                  "type": "info"
+                },
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Yes",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "text": "No",
+                      "link": "",
+                      "image": {}
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

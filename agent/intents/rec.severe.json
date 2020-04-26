@@ -1,0 +1,56 @@
+{
+  "id": "6c5aff9d-d548-4d18-b343-5490e275fe17",
+  "name": "rec.severe",
+  "auto": true,
+  "contexts": [
+    "ctx-severe"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "s2.s2-yes",
+      "affectedContexts": [
+        {
+          "name": "potential-severe",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "ctx-severe",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "accordion",
+                  "text": "Tell the medical staff if:\u003cul\u003e\u003cli\u003eYou had contact with someone with COVID-19\u003c/li\u003e\u003cli\u003eYou recently visited an area where COVID-19 is spreading\u003c/li\u003e\u003c/ul\u003e(Source: CDC)",
+                  "title": "Seek medical care",
+                  "subtitle": "Urgent medical attention may be needed. Go to your nearest emergency department right away."
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

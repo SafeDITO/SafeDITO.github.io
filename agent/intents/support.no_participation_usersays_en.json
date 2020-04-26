@@ -1,0 +1,98 @@
+[
+  {
+    "id": "d9ead036-4d49-4f9f-a5ca-b3d27aad7701",
+    "data": [
+      {
+        "text": "I prefer not to answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2ebd750b-5931-4650-8e07-cb6327cf64a2",
+    "data": [
+      {
+        "text": "In between",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "95b89046-7e21-4aba-8770-2e77a7368324",
+    "data": [
+      {
+        "text": "I don\u0027t want to answer this question",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8da44499-3593-4bfa-b1ed-e5bf2a929cb6",
+    "data": [
+      {
+        "text": "I don\u0027t want to answer this survey",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "564101e4-04f1-45ab-b703-a6aeb2beb669",
+    "data": [
+      {
+        "text": "I don\u0027t know",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9cdf4dd3-943e-4137-8f7e-8b024287fecf",
+    "data": [
+      {
+        "text": "Neither",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eafe296b-016d-47f5-aed6-9e91eb6d2b87",
+    "data": [
+      {
+        "text": "I don\u0027t want to participate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0c769f66-9d97-41b5-9c96-d76f698c2f35",
+    "data": [
+      {
+        "text": "I don\u0027t want to answer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

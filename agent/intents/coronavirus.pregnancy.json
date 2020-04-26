@@ -1,0 +1,50 @@
+{
+  "id": "de1c1d6c-3bf6-4964-aa87-021ffdd49412",
+  "name": "coronavirus.pregnancy",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThe Center for Disease Control and Prevention reports that we do not know at this time if \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e would cause problems during pregnancy or affect the health of the baby after birth. Pregnant women should do the same things as the general public to avoid infection.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "The Center for Disease Control and Prevention reports that we do not know at this time if COVID-19 would cause problems during pregnancy or affect the health of the baby after birth. Pregnant women should do the same things as the general public to avoid infection."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThe Center for Disease Control and Prevention reports that we do not know at this time if \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e would cause problems during pregnancy or affect the health of the baby after birth. Pregnant women should do the same things as the general public to avoid infection.\u003c/speak\u003e",
+          "displayText": "The Center for Disease Control and Prevention reports that we do not know at this time if COVID-19 would cause problems during pregnancy or affect the health of the baby after birth. Pregnant women should do the same things as the general public to avoid infection."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": "d3395c3c-1fec-4101-90a1-a26404991ff3",
+  "name": "qus.s2",
+  "auto": true,
+  "contexts": [
+    "ctx-s2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-severe",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ctx-s3",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ctx-extreme",
+          "parameters": {},
+          "lifespan": 0
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Thank you for your response, do you have any of the following symptoms?  Moderate to severe difficulty breathing (unable to speak full sentences). Coughing up blood (more than about 1 teaspoon). Signs of low blood pressure (feeling cold, pale, clammy skin, light-headed, too weak to stand).",
+          "replies": [
+            "yes",
+            "no"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "• Moderate to severe difficulty breathing (unable to speak full sentences)",
+                    "• Coughing up blood (more than about 1 teaspoon)",
+                    "• Signs of low blood pressure (feeling cold, pale, clammy skin, light-headed, too weak to stand)"
+                  ],
+                  "title": "Do you have any of the following symptoms?"
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "link": "",
+                      "image": {},
+                      "text": "Yes"
+                    },
+                    {
+                      "image": {},
+                      "text": "No",
+                      "link": ""
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

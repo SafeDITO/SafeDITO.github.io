@@ -1,0 +1,26 @@
+{
+  "id": "6cb3da64-0dab-4ff0-a8fa-01d367ffab48",
+  "name": "end-yes",
+  "auto": true,
+  "contexts": [
+    "ctx-end"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

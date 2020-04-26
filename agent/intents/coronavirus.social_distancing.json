@@ -1,0 +1,48 @@
+{
+  "id": "e943ccf0-fe2d-4c54-88ac-4d9df5ee36c9",
+  "name": "coronavirus.social_distancing",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, you should avoid close contact with people and especially those who are sick. Close contact is considered being within about 6 feet or having direct contact with infectious secretions of a \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e case (for example, being coughed on). This is especially important for people who are at higher risk of getting very sick.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "According to the Center for Disease Control and Prevention, you should avoid close contact with people and especially those who are sick. Close contact is considered being within about 6 feet or having direct contact with infectious secretions of a COVID-19 case (for example, being coughed on). This is especially important for people who are at higher risk of getting very sick."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, you should avoid close contact with people and especially those who are sick. Close contact is considered being within about 6 feet or having direct contact with infectious secretions of a \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e case (for example, being coughed on). This is especially important for people who are at higher risk of getting very sick.\u003c/speak\u003e",
+          "displayText": "According to the Center for Disease Control and Prevention, you should avoid close contact with people and especially those who are sick. Close contact is considered being within about 6 feet or having direct contact with infectious secretions of a COVID-19 case (for example, being coughed on). This is especially important for people who are at higher risk of getting very sick."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": "a3bd2d15-5bee-4238-adc2-b73b3b567bd3",
+  "name": "qus.s1b",
+  "auto": true,
+  "contexts": [
+    "ctx-s1b"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-extreme",
+          "parameters": {},
+          "lifespan": 2
+        },
+        {
+          "name": "ctx-s2",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "telegram",
+          "lang": "en",
+          "condition": "",
+          "title": "Thank you for your response, do you have any of these life-threatening symptoms?  New or increasing confusion. Severe difficulty waking. Slurred speech. New or continuous seizures.",
+          "replies": [
+            "yes",
+            "no"
+          ]
+        },
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "text": [
+                    "• New or increasing confusion",
+                    "• Severe difficulty waking up",
+                    "• Slurred speech (new or worsening)",
+                    "• New or continuous seizures"
+                  ],
+                  "title": "Do you have any of these life-threatening symptoms?"
+                }
+              ],
+              [
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "image": {},
+                      "text": "Yes",
+                      "link": ""
+                    },
+                    {
+                      "image": {},
+                      "text": "No",
+                      "link": ""
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

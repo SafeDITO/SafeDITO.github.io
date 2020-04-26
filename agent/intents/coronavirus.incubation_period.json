@@ -1,0 +1,48 @@
+{
+  "id": "c766ca60-56b3-4ffa-b67a-3588437e8a24",
+  "name": "coronavirus.incubation_period",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eAccording to the World Health Organization, the “incubation period” is the time between catching the virus and showing symptoms of the disease. Most estimates of the incubation period for \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e range from 1-14 days, most commonly around five days. These estimates will be updated as more data becomes available.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "According to the World Health Organization, the “incubation period” is the time between catching the virus and showing symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data becomes available."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eAccording to the World Health Organization, the “incubation period” is the time between catching the virus and showing symptoms of the disease. Most estimates of the incubation period for \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e range from 1-14 days, most commonly around five days. These estimates will be updated as more data becomes available.\u003c/speak\u003e",
+          "displayText": "According to the World Health Organization, the “incubation period” is the time between catching the virus and showing symptoms of the disease. Most estimates of the incubation period for COVID-19 range from 1-14 days, most commonly around five days. These estimates will be updated as more data becomes available."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

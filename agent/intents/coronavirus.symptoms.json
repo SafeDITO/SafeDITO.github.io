@@ -1,0 +1,74 @@
+{
+  "id": "04cb6e8b-4680-4f22-ad2d-58cbe55f7100",
+  "name": "coronavirus.symptoms",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, current symptoms reported for patients with \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e have included mild to severe respiratory illness with fever, cough, and difficulty breathing. Symptoms may appear 2-14 days after exposure.\u003c/speak\u003e"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eAccording to the Center for Disease Control and Prevention, current symptoms reported for patients with \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e have included mild to severe respiratory illness with fever, cough, and difficulty breathing. Symptoms may appear 2-14 days after exposure.\u003c/speak\u003e",
+          "displayText": "According to the Center for Disease Control and Prevention, current symptoms reported for patients with COVID-19 have included mild to severe respiratory illness with fever, cough, and difficulty breathing. Symptoms may appear 2-14 days after exposure."
+        },
+        {
+          "type": "browse_carousel_card",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "items": [
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "Flu vs. COVID-19",
+              "description": "Symptoms may appear 2-14 days after exposure."
+            },
+            {
+              "footer": "",
+              "openUrlAction": {
+                "url": "https://www.hopkinsmedicine.org/health/conditions-and-diseases/coronavirus/coronavirus-disease-2019-vs-the-flu",
+                "urlTypeHint": "URL_TYPE_HINT_UNSPECIFIED"
+              },
+              "title": "COVID-19",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "According to the Center for Disease Control and Prevention, current symptoms reported for patients with COVID-19 have included mild to severe respiratory illness with fever, cough, and difficulty breathing. Symptoms may appear 2-14 days after exposure."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

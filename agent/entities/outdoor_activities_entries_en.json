@@ -1,0 +1,47 @@
+[
+  {
+    "value": "bike",
+    "synonyms": [
+      "bike"
+    ]
+  },
+  {
+    "value": "ski",
+    "synonyms": [
+      "ski",
+      "skiing"
+    ]
+  },
+  {
+    "value": "jogging",
+    "synonyms": [
+      "jogging",
+      "run"
+    ]
+  },
+  {
+    "value": "walk dog",
+    "synonyms": [
+      "walk dog",
+      "dog walking"
+    ]
+  },
+  {
+    "value": "exercise",
+    "synonyms": [
+      "exercise"
+    ]
+  },
+  {
+    "value": "park",
+    "synonyms": [
+      "park"
+    ]
+  },
+  {
+    "value": "frisbee",
+    "synonyms": [
+      "frisbee"
+    ]
+  }
+]

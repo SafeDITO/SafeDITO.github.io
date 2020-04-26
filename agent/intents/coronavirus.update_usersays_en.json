@@ -1,0 +1,490 @@
+[
+  {
+    "id": "b56b63e3-b704-44d9-891c-2798e55f4fe2",
+    "data": [
+      {
+        "text": "What are the latest news on covid in SF?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5748faf2-55a1-4a14-8f50-3ecee461b4d1",
+    "data": [
+      {
+        "text": "Can you give me the latest update?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "901b7a58-b18b-4182-8638-86eb8b1450c2",
+    "data": [
+      {
+        "text": "where can i learn more about covid-19?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fdde7fc-24a7-4ac3-954d-406648afdbf7",
+    "data": [
+      {
+        "text": "more information on ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d6746ba7-70fa-4904-a565-3f932379c039",
+    "data": [
+      {
+        "text": "I want to learn more about covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f847de6b-024d-4230-822c-5069860072ae",
+    "data": [
+      {
+        "text": "Yes me an latest update.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8f4929d2-959a-47ce-9d4b-609394aff7e6",
+    "data": [
+      {
+        "text": "I want to see the latest news about the virus where can I find that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "29bdf3c3-02e2-43ec-9128-99ca00ca467c",
+    "data": [
+      {
+        "text": "I want to find the latest update about the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1f899c8e-6f0f-4fd7-909b-2a15b327f357",
+    "data": [
+      {
+        "text": "can you give me ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "daae090b-93cf-4676-ac8a-9cb6aee97ffa",
+    "data": [
+      {
+        "text": "what is the latest ",
+        "userDefined": false
+      },
+      {
+        "text": "corona",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " update",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e083dd23-a972-4374-b04a-76f67af2b5a0",
+    "data": [
+      {
+        "text": "I need more news about the virus where can I find that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7954c30-e6ef-452b-b471-387382592dbf",
+    "data": [
+      {
+        "text": "Where can I find more information about the virus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71216fad-7c8e-4d88-b674-6b648955067a",
+    "data": [
+      {
+        "text": "Which site has updated information on the coronavirus",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0f0afc40-9212-4486-9d92-bbf02550da67",
+    "data": [
+      {
+        "text": "get info on covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b8791fc-2797-4a83-95ef-589ca3443c7f",
+    "data": [
+      {
+        "text": "what\u0027s the latest news",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "eeaf02c8-0d57-4b66-ba64-d00be7c25e22",
+    "data": [
+      {
+        "text": "What about the latest updates? Can you give me the latest updates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5024cb60-e82b-40d4-8c1b-f9251873d2fc",
+    "data": [
+      {
+        "text": "How can I get the latest updates?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9345a4f9-b9f8-4a55-be04-83abdefd5b71",
+    "data": [
+      {
+        "text": "What\u0027s new",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3120b208-72f0-4619-960c-8d1c67efe34a",
+    "data": [
+      {
+        "text": "what is the latest news?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "a2435a1a-a237-41dc-9fd4-0c5b262982d0",
+    "data": [
+      {
+        "text": "what is the update for ",
+        "userDefined": false
+      },
+      {
+        "text": "Alameda",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d55524cf-3ba8-4411-8020-444a30831e40",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " update in ",
+        "userDefined": false
+      },
+      {
+        "text": "San Francisco",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6fd1ae16-602b-431d-9058-c1956584222d",
+    "data": [
+      {
+        "text": "what is the ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " update for east bay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "756d7a45-81eb-4481-a0c7-e3eba5dc0bf8",
+    "data": [
+      {
+        "text": "latest news on the global pandemic",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "43efa316-6be2-4329-802d-206c57a0ff08",
+    "data": [
+      {
+        "text": "How is ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " doing on ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2f2b6505-068a-4ba9-b976-6e9cc0e97d5b",
+    "data": [
+      {
+        "text": "what\u0027s the situation in the ",
+        "userDefined": false
+      },
+      {
+        "text": "US",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": true
+      },
+      {
+        "text": " right now?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "5870ad43-029b-4eb0-b44b-20f8f33b3b31",
+    "data": [
+      {
+        "text": "what\u0027s the latest news on ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6314abe5-d313-4b65-a0ac-4805d8b0bf75",
+    "data": [
+      {
+        "text": "tell me live udpates",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "51bcf261-4660-4e9f-a389-dc7bb22dfd21",
+    "data": [
+      {
+        "text": "latest information on ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6a064fe8-0017-42bf-989e-5964c6e3a6d6",
+    "data": [
+      {
+        "text": "I want to know the updates on covid 19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "da9a5f7c-069a-4960-a47d-0426d6de3692",
+    "data": [
+      {
+        "text": "play me latest news on ",
+        "userDefined": false
+      },
+      {
+        "text": "coronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ce05db18-a859-4df6-b3b0-1a6504d55adc",
+    "data": [
+      {
+        "text": "give me an update on ",
+        "userDefined": false
+      },
+      {
+        "text": "conronavirus",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

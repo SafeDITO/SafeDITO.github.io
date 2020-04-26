@@ -1,0 +1,57 @@
+[
+  {
+    "value": " schools",
+    "synonyms": [
+      "schools",
+      "university",
+      "day care",
+      "kindergarten",
+      "school"
+    ]
+  },
+  {
+    "value": "resturants",
+    "synonyms": [
+      "resturant",
+      "resturants"
+    ]
+  },
+  {
+    "value": "banks",
+    "synonyms": [
+      "bank",
+      "JP Morgan Chase",
+      "Chase bank",
+      "Bank of America",
+      "banks"
+    ]
+  },
+  {
+    "value": "grocery stores",
+    "synonyms": [
+      "grocery store",
+      "Walmart",
+      "Safeway",
+      "Whole Foods",
+      "grocery stores"
+    ]
+  },
+  {
+    "value": "hospitals",
+    "synonyms": [
+      "hospital",
+      "Kaiser",
+      "hospitals"
+    ]
+  },
+  {
+    "value": "pharmacies",
+    "synonyms": [
+      "pharmacy",
+      "CVS",
+      "Walgreen",
+      "Rite Aid",
+      "pharmacies"
+    ]
+  }
+]

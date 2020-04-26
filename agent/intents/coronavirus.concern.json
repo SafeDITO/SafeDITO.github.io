@@ -1,0 +1,61 @@
+{
+  "id": "275831ff-bba3-4138-9ca7-c7c35d457bd4",
+  "name": "coronavirus.concern",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "8c7fd9ef-bcf1-41a7-8ffd-bebebcdce625",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eIn response to \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e, the World Health Organization recommends we channel our concerns into action to protect ourselves, our loved ones, and our communities. First, regular and thorough hand-washing and good respiratory hygiene upkeep is important. Second, keep informed and follow the advice of local health authorities. Please visit the WHO website for more guidance.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "In response to COVID-19, the World Health Organization recommends we channel our concerns into action to protect ourselves, our loved ones, and our communities. First, regular and thorough hand-washing and good respiratory hygiene upkeep is important. Second, keep informed and follow the advice of local health authorities. Please visit the WHO website for more guidance."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eIn response to \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e, the World Health Organization recommends we channel our concerns into action to protect ourselves, our loved ones, and our communities. First, regular and thorough hand-washing and good respiratory hygiene upkeep is important. Second, keep informed and follow the advice of local health authorities. Please visit the WHO website for more guidance.\u003c/speak\u003e",
+          "displayText": "In response to COVID-19, the World Health Organization recommends we channel our concerns into action to protect ourselves, our loved ones, and our communities. First, regular and thorough hand-washing and good respiratory hygiene upkeep is important. Second, keep informed and follow the advice of local health authorities. Please visit the WHO website for more guidance."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

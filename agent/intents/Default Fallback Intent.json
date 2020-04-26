@@ -1,0 +1,38 @@
+{
+  "id": "24e5f64b-8fa5-4755-94ea-2b75ce60a2a8",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Sorry, I don\u0027t know how to answer that.",
+            "I\u0027m not sure how to answer that question. Try rephrasing it.",
+            "I don\u0027t understand the question.",
+            "Hmm, I\u0027m not sure I know that."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "telephony": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

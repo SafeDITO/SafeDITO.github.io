@@ -1,0 +1,9 @@
+{
+  "id": "6743acfc-5470-48b2-a2ac-f8a6131b8008",
+  "name": "outdoor_activities",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

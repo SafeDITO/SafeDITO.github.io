@@ -1,0 +1,149 @@
+{
+  "id": "5a2d625b-51d1-4048-9988-55ba63527596",
+  "name": "qus.p2-no",
+  "auto": true,
+  "contexts": [
+    "ctx-p2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-p2",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "ctx-p3",
+          "parameters": {},
+          "lifespan": 10
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "title": "Do you have any of these conditions? Choose all that apply:",
+                  "type": "description"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-lung",
+                    "languageCode": "en"
+                  },
+                  "type": "list",
+                  "title": "Chronic lung disease or moderate to severe asthma"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-cardio",
+                    "languageCode": "en"
+                  },
+                  "type": "list",
+                  "title": "Serious heart conditions"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Immunocompromised",
+                  "subtitle": "Many conditions can cause a person to be immunocompromised, including cancer treatment, smoking, bone marrow or organ transplantation, immune deficiencies, poorly controlled HIV or AIDS, and prolonged use of corticosteroids and other immune weakening medications",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "event-health-condition-healtherisk"
+                  },
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Severe obesity",
+                  "subtitle": "body mass index [BMI] of 40 or higher",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "event-health-condition-healtherisk"
+                  },
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Diabetes",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-dm",
+                    "languageCode": "en"
+                  },
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Chronic kidney disease undergoing dialysis",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-healtherisk",
+                    "languageCode": "en"
+                  },
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-healtherisk",
+                    "languageCode": "en"
+                  },
+                  "type": "list",
+                  "title": "Liver disease"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "None of above",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-none",
+                    "languageCode": "en"
+                  },
+                  "type": "list"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

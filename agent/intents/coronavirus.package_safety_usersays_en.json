@@ -1,0 +1,202 @@
+[
+  {
+    "id": "446bd34b-92c7-42d9-9ee4-fd5b4fec4fa3",
+    "data": [
+      {
+        "text": "Is it safe to handle packages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "50132835-5f4d-40fc-989f-7de1df746218",
+    "data": [
+      {
+        "text": "What\u0027s the likelihood of me catching the disease from a package?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "71461b30-6e66-4a79-9ad4-996024384cc6",
+    "data": [
+      {
+        "text": "Is it still safe to receive packages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "36caa395-c4de-4bac-ab5a-056b548e9b79",
+    "data": [
+      {
+        "text": "I am receiving a parcel from over seas is it safe to open",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "1d62b9ed-f5ca-4f88-86a3-2efc4565630f",
+    "data": [
+      {
+        "text": "I am getting a shipment from china, can I open it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "48f91f5a-ce38-41ed-9601-9c82177e48c2",
+    "data": [
+      {
+        "text": "I\u0027m having something shipped from China if it safe to open it.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a99ec561-1253-482f-a6bc-d347ce3a6ada",
+    "data": [
+      {
+        "text": "I\u0027m going to receive a package from ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": ". Can I open it?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "138c6c61-53d0-41b5-8c84-22cdfd7e059e",
+    "data": [
+      {
+        "text": "What about things that are shipped from China?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "514f9699-5cb1-4fba-8496-0af830693a42",
+    "data": [
+      {
+        "text": "can i touch amazon delivery packages?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "052223dc-9ea2-4f76-82ff-4f3443e10c75",
+    "data": [
+      {
+        "text": "Can I get the virus bringing in a package delivery?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1bc3b7a9-f6d7-427f-a0a7-e56cb874411d",
+    "data": [
+      {
+        "text": "what if I get a package from ",
+        "userDefined": false
+      },
+      {
+        "text": "china",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7d8df9f4-cf90-45f3-a4eb-5d9b2d9d3ccd",
+    "data": [
+      {
+        "text": "can it spread from a package I got from ",
+        "userDefined": false
+      },
+      {
+        "text": "china",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "11265155-4b68-4e2d-b58f-1212138ee133",
+    "data": [
+      {
+        "text": "Is it safe to handle package from ",
+        "userDefined": false
+      },
+      {
+        "text": "China",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1f8e927c-1750-4ebf-aec1-758fb5db4755",
+    "data": [
+      {
+        "text": "Is it safe to receive a package from any area where COVID-19 has been reported?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,64 @@
+{
+  "id": "f8b85fb5-c2f7-4024-b1c0-9a6dd03b524a",
+  "name": "support.thank",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "satisfied",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "satisfaction",
+          "parameters": {},
+          "lifespan": 5
+        },
+        {
+          "name": "thank",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "You\u0027re welcome. Do you have any other questions?"
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eYou are welcome! Do you have any other questions?\u003c/speak\u003e",
+          "displayText": "You\u0027re welcome. Do you have any other questions?"
+        },
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eYou\u0027re welcome. Do you have any other questions?\u003c/speak\u003e"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

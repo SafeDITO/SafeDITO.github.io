@@ -1,0 +1,167 @@
+{
+  "id": "0d654b98-a1b7-41ba-a2e2-eedae2684157",
+  "name": "qus.p2-yes",
+  "auto": true,
+  "contexts": [
+    "ctx-p2"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "ctx-p2",
+          "parameters": {},
+          "lifespan": 0
+        },
+        {
+          "name": "ctx-p3",
+          "parameters": {},
+          "lifespan": 10
+        },
+        {
+          "name": "risk_labels",
+          "parameters": {},
+          "lifespan": 20
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b08e8456-e3bc-44fe-bd79-8d86d9a3e3a0",
+          "required": false,
+          "dataType": "",
+          "name": "risk_label_p2-yes",
+          "value": "AGE",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "description",
+                  "title": "Do you have any of these conditions? Choose all that apply:"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Chronic lung disease or moderate to severe asthma",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-lung",
+                    "languageCode": "en"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "event-health-condition-cardio"
+                  },
+                  "type": "list",
+                  "title": "Serious heart conditions"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "type": "list",
+                  "title": "Immunocompromised",
+                  "subtitle": "Many conditions can cause a person to be immunocompromised, including cancer treatment, smoking, bone marrow or organ transplantation, immune deficiencies, poorly controlled HIV or AIDS, and prolonged use of corticosteroids and other immune weakening medications",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "event-health-condition-healtherisk"
+                  }
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "body mass index [BMI] of 40 or higher",
+                  "event": {
+                    "name": "event-health-condition-healtherisk",
+                    "languageCode": "en"
+                  },
+                  "type": "list",
+                  "title": "Severe obesity"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Diabetes",
+                  "subtitle": "",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "event-health-condition-dm"
+                  },
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "title": "Chronic kidney disease undergoing dialysis",
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-healtherisk",
+                    "languageCode": "en"
+                  },
+                  "type": "list"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "",
+                  "event": {
+                    "name": "event-health-condition-healtherisk",
+                    "languageCode": "en"
+                  },
+                  "type": "list",
+                  "title": "Liver disease"
+                },
+                {
+                  "type": "divider"
+                },
+                {
+                  "subtitle": "",
+                  "event": {
+                    "languageCode": "en",
+                    "name": "event-health-condition-none"
+                  },
+                  "type": "list",
+                  "title": "None of above"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

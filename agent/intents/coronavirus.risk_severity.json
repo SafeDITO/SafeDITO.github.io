@@ -1,0 +1,61 @@
+{
+  "id": "16b2bfba-f988-4c17-abc2-d2141b5ee2bc",
+  "name": "coronavirus.risk_severity",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5a247278-59e1-491f-b1dd-a073a778daa5",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 14,
+          "platform": "telephony",
+          "lang": "en",
+          "condition": "",
+          "text": "",
+          "ssml": "\u003cspeak\u003eThere is still limited information about risk factors for severity of symptoms, but anyone can get \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. Based on current information, the CDC has stated that older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "There is still limited information about risk factors for severity of symptoms, but anyone can get COVID-19. Based on current information, the CDC has stated that older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19."
+        },
+        {
+          "type": "simple_response",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "textToSpeech": "",
+          "ssml": "\u003cspeak\u003eThere is still limited information about risk factors for severity of symptoms, but anyone can get \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e. Based on current information, the CDC has stated that older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from \u003csub alias\u003d\"covid 19\"\u003eCOVID-19\u003c/sub\u003e.\u003c/speak\u003e",
+          "displayText": "There is still limited information about risk factors for severity of symptoms, but anyone can get COVID-19. Based on current information, the CDC has stated that older adults and people of any age who have serious underlying medical conditions may be at higher risk for more serious complications from COVID-19."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

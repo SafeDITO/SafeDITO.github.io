@@ -12,6 +12,16 @@ Based from `Verily Pathfinder Virtual Agent Template for COVID-19` (April 24, 20
     * [World Health Organization (WHO)](https://www.who.int/news-room/q-a-detail/q-a-coronaviruses)
     * [Deparnment of Health (DOH)](https://www.doh.gov.ph/COVID-19/FAQs)
     * [Centers for Disease Control (CDC)](https://www.cdc.gov/coronavirus/2019-ncov/faq.html)
+* Integratable to Messaging Applications such as Alibaba's DingTalk, Facebook Messenger, etc.
+* Real-time updates on Covid-19 confirmed / death cases (selected country only)
+
+## Live Demo
+
+    https://safedito.github.io/
+
+## Tech Stack
+* HTML5 / JavaScript / Bootstrap 4
+* DialogFlow / Cloud Functions / BigQuery API
 
 ## Getting Started
 1. Clone this repository

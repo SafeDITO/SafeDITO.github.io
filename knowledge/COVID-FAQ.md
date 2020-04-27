@@ -1,0 +1,1 @@
+[DOH-Covid-FAQs](https://www.doh.gov.ph/COVID-19/FAQs)

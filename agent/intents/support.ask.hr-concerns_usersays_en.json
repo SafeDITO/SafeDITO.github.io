@@ -1,0 +1,38 @@
+[
+  {
+    "id": "c9c3190a-c414-4286-bed1-626cdb7ea5f3",
+    "data": [
+      {
+        "text": "Human Resources",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "92491f36-a9ff-49b4-a64c-d02b87435a92",
+    "data": [
+      {
+        "text": "HR Questions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6e3791fc-2de7-4d56-b01e-5211d25ea9d0",
+    "data": [
+      {
+        "text": "HR Concerns",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

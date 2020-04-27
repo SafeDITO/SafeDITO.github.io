@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "5b6e018c-57f7-40a2-ae87-6596d3d67a61",
+          "id": "a305b039-b83f-41d9-a707-533ca679a0cf",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -21,7 +21,7 @@
           "isList": false
         },
         {
-          "id": "e5d790ac-f8b7-44bb-98af-8836590f5d92",
+          "id": "5a4c4c80-484c-443c-846d-1dbb40271ca1",
           "required": false,
           "dataType": "@sys.geo-city",
           "name": "geo-city",
@@ -33,7 +33,7 @@
           "isList": false
         },
         {
-          "id": "6065f03e-c138-4923-84e8-1ca5cf1479df",
+          "id": "476900cf-f32f-42e0-b820-9f1d645f1e10",
           "required": false,
           "dataType": "@sys.geo-country",
           "name": "geo-country",

@@ -1,6 +1,6 @@
 {
-  "id": "08a52379-438b-4280-86fe-c629a20bfa68",
-  "name": "support.ask",
+  "id": "a320f7d7-0b37-4b87-9f25-6b93502bd3b8",
+  "name": "support.ask.helpdesk-wfh",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -17,18 +17,18 @@
             "richContent": [
               [
                 {
-                  "title": "Go ahead, you can ask anything...",
-                  "subtitle": "Please understand that I\u0027m still learning new words everyday, and I may not answer your questions correctly.",
-                  "type": "info"
+                  "type": "info",
+                  "title": "Please email it.admin@dito.ph and wait for a workchat message from one of our IT Colleagues re your request.",
+                  "subtitle": "You can expect to hear from them within 3 hours."
                 },
                 {
                   "type": "chips",
                   "options": [
                     {
-                      "text": "HR Concerns"
+                      "text": "Great! Thanks"
                     },
                     {
-                      "text": "Ask our Helpdesk"
+                      "text": "Ask Something Else"
                     }
                   ]
                 }

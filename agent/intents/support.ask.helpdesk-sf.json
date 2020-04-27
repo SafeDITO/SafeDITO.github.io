@@ -1,6 +1,6 @@
 {
-  "id": "08a52379-438b-4280-86fe-c629a20bfa68",
-  "name": "support.ask",
+  "id": "a57cc703-bc9d-4653-bbe9-707df91f369e",
+  "name": "support.ask.helpdesk-sf",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -17,18 +17,21 @@
             "richContent": [
               [
                 {
-                  "title": "Go ahead, you can ask anything...",
-                  "subtitle": "Please understand that I\u0027m still learning new words everyday, and I may not answer your questions correctly.",
+                  "title": "Thank you so much for your work for our country.",
+                  "subtitle": "I am so priveleged to assist you. What can I help you with?",
                   "type": "info"
                 },
                 {
                   "type": "chips",
                   "options": [
                     {
-                      "text": "HR Concerns"
+                      "text": "Transportation"
                     },
                     {
-                      "text": "Ask our Helpdesk"
+                      "text": "PPE Supplies"
+                    },
+                    {
+                      "text": "Accomodation"
                     }
                   ]
                 }

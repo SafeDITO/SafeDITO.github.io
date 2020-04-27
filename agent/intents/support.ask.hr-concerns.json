@@ -1,6 +1,6 @@
 {
-  "id": "08a52379-438b-4280-86fe-c629a20bfa68",
-  "name": "support.ask",
+  "id": "60935d54-41fe-4b62-8ff6-d37533d3e27c",
+  "name": "support.ask.hr-concerns",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -17,18 +17,18 @@
             "richContent": [
               [
                 {
-                  "title": "Go ahead, you can ask anything...",
-                  "subtitle": "Please understand that I\u0027m still learning new words everyday, and I may not answer your questions correctly.",
+                  "title": "Please email AskHR@dito.ph",
+                  "subtitle": "Kindly wait for a workchat message from one of our HR Colleagues re your request.  You can expect to hear from them within 3 hours. You can expect to hear from them within 3 hours.",
                   "type": "info"
                 },
                 {
                   "type": "chips",
                   "options": [
                     {
-                      "text": "HR Concerns"
+                      "text": "Great! Thanks"
                     },
                     {
-                      "text": "Ask our Helpdesk"
+                      "text": "Ask Something Else"
                     }
                   ]
                 }

@@ -1,0 +1,94 @@
+[
+  {
+    "id": "ece9f2f2-9680-464f-a6c7-8d509bf28519",
+    "data": [
+      {
+        "text": "Covid-19 updates in the ",
+        "userDefined": false
+      },
+      {
+        "text": "Philippines",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ada2911d-74d8-4d4f-bef2-fd0824a92171",
+    "data": [
+      {
+        "text": "How many positive cases in ",
+        "userDefined": false
+      },
+      {
+        "text": "Manila",
+        "alias": "geo-city",
+        "meta": "@sys.geo-city",
+        "userDefined": false
+      },
+      {
+        "text": ", ",
+        "userDefined": false
+      },
+      {
+        "text": "Philippines",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "974ad8fd-d200-4beb-9dca-54e7e5a6221f",
+    "data": [
+      {
+        "text": "How many ",
+        "userDefined": false
+      },
+      {
+        "text": "COVID-19",
+        "alias": "covid-19",
+        "meta": "@covid-19",
+        "userDefined": false
+      },
+      {
+        "text": " positive in ",
+        "userDefined": false
+      },
+      {
+        "text": "the Philippines",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "53d94f54-b531-45d4-b4ed-31623c0bd0d2",
+    "data": [
+      {
+        "text": "How many deaths in ",
+        "userDefined": false
+      },
+      {
+        "text": "the Philippines",
+        "alias": "geo-country",
+        "meta": "@sys.geo-country",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

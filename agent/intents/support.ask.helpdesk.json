@@ -1,6 +1,6 @@
 {
-  "id": "08a52379-438b-4280-86fe-c629a20bfa68",
-  "name": "support.ask",
+  "id": "d2e8b81a-86e9-4a3e-b245-9a309928bce4",
+  "name": "support.ask.helpdesk",
   "auto": true,
   "contexts": [],
   "responses": [
@@ -17,18 +17,18 @@
             "richContent": [
               [
                 {
-                  "title": "Go ahead, you can ask anything...",
-                  "subtitle": "Please understand that I\u0027m still learning new words everyday, and I may not answer your questions correctly.",
+                  "title": "Which category are you included?",
+                  "subtitle": "Please select from the following options:",
                   "type": "info"
                 },
                 {
                   "type": "chips",
                   "options": [
                     {
-                      "text": "HR Concerns"
+                      "text": "Work From Home"
                     },
                     {
-                      "text": "Ask our Helpdesk"
+                      "text": "Skeletal Force"
                     }
                   ]
                 }

@@ -12,18 +12,6 @@
     "updated": 0
   },
   {
-    "id": "660fe471-b07e-4527-ab92-8defd1e1b215",
-    "data": [
-      {
-        "text": "Can you give me the latest update?",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
     "id": "d0acca97-2285-443f-bb13-742ef6072a3f",
     "data": [
       {
@@ -66,34 +54,10 @@
     "updated": 0
   },
   {
-    "id": "f5a2274a-4972-40c5-83df-3a89c0620cff",
-    "data": [
-      {
-        "text": "Yes me an latest update.",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 0,
-    "updated": 0
-  },
-  {
     "id": "b35c74c8-a322-4e47-b5d5-4bbbf66a7a59",
     "data": [
       {
         "text": "I want to see the latest news about the virus where can I find that",
-        "userDefined": false
-      }
-    ],
-    "isTemplate": false,
-    "count": 1,
-    "updated": 0
-  },
-  {
-    "id": "bc39f840-9838-409c-88e1-00f8ee9e9af3",
-    "data": [
-      {
-        "text": "I want to find the latest update about the virus",
         "userDefined": false
       }
     ],

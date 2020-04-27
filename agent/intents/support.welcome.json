@@ -38,14 +38,14 @@
                   "type": "chips",
                   "options": [
                     {
+                      "link": "",
                       "image": {},
-                      "text": "Start Health Screening",
-                      "link": ""
+                      "text": "Start Health Screening"
                     },
                     {
+                      "image": {},
                       "text": "Ask Questions",
-                      "link": "",
-                      "image": {}
+                      "link": ""
                     },
                     {
                       "text": "Official Sources",

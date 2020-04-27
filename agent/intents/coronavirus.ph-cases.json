@@ -7,13 +7,77 @@
     {
       "resetContexts": false,
       "affectedContexts": [],
-      "parameters": [],
+      "parameters": [
+        {
+          "id": "e79d5b5c-9246-4638-888b-4af1aa4c58ec",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "name": "geo-country",
+          "value": "$geo-country",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "8530887a-d1c8-49aa-918c-852300a1415f",
+          "required": false,
+          "dataType": "@covid-19",
+          "name": "covid-19",
+          "value": "$covid-19",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "d9213577-c5aa-4504-9cfe-b45ffe898abc",
+          "required": false,
+          "dataType": "@sys.geo-city",
+          "name": "geo-city",
+          "value": "$geo-city",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
       "messages": [
         {
-          "type": 0,
+          "type": 4,
           "lang": "en",
           "condition": "",
-          "speech": "You can visit this site for more info"
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "You may visit the following sites for more info",
+                  "type": "info",
+                  "title": "I\u0027m sorry, I can\u0027t find statistics for COVID-19 cases in the Philippines"
+                },
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "COVID-19 Dashboard",
+                      "link": "https://endcov.ph/dashboard/"
+                    },
+                    {
+                      "link": "http://www.doh.gov.ph/2019-nCoV",
+                      "text": "Latest News"
+                    },
+                    {
+                      "link": "https://endcov.ph/hospitals/",
+                      "text": "Hospitals"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
         }
       ],
       "defaultResponsePlatforms": {},

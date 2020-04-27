@@ -416,6 +416,7 @@ function queryCovid19dataset(tableName, country) {
     'Vatikan': 'Holy See',
     'South Korea': 'Korea, South',
     'Taiwan': 'Taiwan*',
+    'Philippines': 'Philippine*',
   };
   if (Object.keys(countryNameCorrection).includes(country)) {
     country = countryNameCorrection[country];
@@ -487,6 +488,9 @@ function confirmedCases(agent) {
         agent.add(
             `I'm sorry, I can't find statistics for confirmed cases ` +
             resultLocation);
+        if (country.includes('Philippines')){
+          agent.setFollowupEvent('covid-statistics-ph');
+        }
         console.log(e);
       });
 }
@@ -530,6 +534,9 @@ function death(agent) {
       .catch(e => {
         agent.add(
             `I'm sorry, I can't find statistics for deaths ` + resultLocation);
+        if (country.includes('Philippines')){
+          agent.setFollowupEvent('covid-statistics-ph');
+        }
         console.log(e);
       });
 }

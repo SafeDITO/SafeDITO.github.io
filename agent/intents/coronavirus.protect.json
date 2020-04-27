@@ -9,7 +9,7 @@
       "affectedContexts": [],
       "parameters": [
         {
-          "id": "d48529b9-ea2a-408d-bc44-285af1aba3a1",
+          "id": "cd7a6072-7a29-4756-bfa4-93fd9374fb07",
           "required": false,
           "dataType": "@covid-19",
           "name": "covid-19",
@@ -45,10 +45,6 @@
           "lang": "en",
           "condition": "",
           "formattedText": "CDC\u0027s recommended steps to prevent illness",
-          "image": {
-            "url": "",
-            "accessibilityText": ""
-          },
           "buttons": [
             {
               "title": "Steps to Prevent Illness",

@@ -1,0 +1,42 @@
+{
+  "id": "8e60e522-7154-43db-877c-7e7a7831955e",
+  "name": "info-graphics.tsunami",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "Tsunami",
+                  "link": "https://example.com",
+                  "rawUrl": "https://raw.githubusercontent.com/SafeDITO/SafeDITO.github.io/master/images/info-graphics/Tsunami.jpg"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

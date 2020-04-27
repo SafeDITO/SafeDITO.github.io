@@ -1,0 +1,61 @@
+{
+  "id": "a076acc6-2e30-42c2-872a-d7f22184169e",
+  "name": "support.info-graphics",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "info",
+                  "title": "Info Graphics",
+                  "subtitle": "Select from the following info graphics below"
+                },
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "Earthquake"
+                    },
+                    {
+                      "text": "Tropical Cyclone"
+                    },
+                    {
+                      "text": "Flood"
+                    },
+                    {
+                      "text": "Tsunami"
+                    },
+                    {
+                      "text": "Emergency Bag"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

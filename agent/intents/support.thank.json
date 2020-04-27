@@ -33,8 +33,8 @@
             "richContent": [
               [
                 {
-                  "type": "description",
-                  "title": "You\u0027re welcome. Do you have any other questions?"
+                  "title": "You\u0027re welcome. Do you have any other questions?",
+                  "type": "description"
                 }
               ],
               [
@@ -42,24 +42,29 @@
                   "type": "chips",
                   "options": [
                     {
-                      "text": "Start health screening",
+                      "text": "Start Health Screening",
                       "link": "",
                       "image": {}
                     },
                     {
-                      "text": "Announcements",
                       "link": "",
-                      "image": {}
+                      "image": {},
+                      "text": "Ask Questions"
                     },
                     {
-                      "text": "Emergency Hotlines",
+                      "text": "Official Sources",
                       "link": "",
                       "image": {}
                     },
                     {
                       "image": {},
-                      "text": "I have some questions",
+                      "text": "Info Graphics",
                       "link": ""
+                    },
+                    {
+                      "text": "How many COVID-19 confirmed cases worldwide?",
+                      "link": "",
+                      "image": {}
                     }
                   ]
                 }

@@ -45,8 +45,11 @@
   "supportedLanguages": [],
   "onePlatformApiVersion": "v2beta1",
   "analyzeQueryTextSentiment": false,
-  "enabledKnowledgeBaseNames": [],
-  "knowledgeServiceConfidenceAdjustment": -0.4,
+  "enabledKnowledgeBaseNames": [
+    "projects/safedito-genvdi/knowledgeBases/MTMwMzc2MzI4NDkxOTExMDg2MDg",
+    "projects/safedito-genvdi/knowledgeBases/MTA3NzY1NDQzNjEyNzQ0MDg5NjA"
+  ],
+  "knowledgeServiceConfidenceAdjustment": 0.1,
   "dialogBuilderMode": false,
   "baseActionPackagesUrl": ""
 }

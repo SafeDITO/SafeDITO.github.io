@@ -1,0 +1,41 @@
+{
+  "id": "08a52379-438b-4280-86fe-c629a20bfa68",
+  "name": "support.ask",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "Please understand that I\u0027m still learning new words everyday, and I may not answer your questions correctly.",
+                  "type": "info",
+                  "title": "Go ahead, you can ask anything..."
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,41 @@
+{
+  "id": "e7e0918e-54e5-4e84-bf48-e0ec8629b537",
+  "name": "info-graphics.flood",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "Flood",
+                  "rawUrl": "https://raw.githubusercontent.com/SafeDITO/SafeDITO.github.io/master/images/info-graphics/flood.jpg"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

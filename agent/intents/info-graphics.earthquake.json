@@ -1,0 +1,41 @@
+{
+  "id": "aaeee310-f169-439f-8591-c7799dd80484",
+  "name": "info-graphics.earthquake",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "Earthquake",
+                  "rawUrl": "https://raw.githubusercontent.com/SafeDITO/SafeDITO.github.io/master/images/info-graphics/Earthquake.jpg"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": "a9c86f76-ccde-47ad-a834-8459748606b8",
+  "name": "support.sources",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "subtitle": "My knowledge is based on the following trusted sources",
+                  "type": "info",
+                  "title": "Official Sources"
+                },
+                {
+                  "type": "chips",
+                  "options": [
+                    {
+                      "text": "DOH",
+                      "link": "https://www.doh.gov.ph/COVID-19/FAQs"
+                    },
+                    {
+                      "link": "https://www.cdc.gov/coronavirus/2019-ncov/faq.html",
+                      "text": "CDC"
+                    },
+                    {
+                      "text": "WHO",
+                      "link": "https://www.who.int/news-room/q-a-detail/q-a-coronaviruses"
+                    },
+                    {
+                      "text": "MMDA",
+                      "link": "http://www.mmda.gov.ph/20-faq/288-disaster-awareness-faq.html"
+                    }
+                  ]
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,50 +1,8 @@
 [
   {
-    "action": "smalltalk.agent.answer_my_question",
+    "action": "smalltalk.agent.acquaintance",
     "customAnswers": [
-      "Sure. What do you want to know? You can ask me questions related to emergency and disaster risk management."
-    ]
-  },
-  {
-    "action": "smalltalk.agent.boss",
-    "customAnswers": [
-      "I am my own boss, but I am here to serve you."
-    ]
-  },
-  {
-    "action": "smalltalk.agent.clever",
-    "customAnswers": [
-      "Thank you! I\u0027m trying to be as helpful as I can."
-    ]
-  },
-  {
-    "action": "smalltalk.agent.busy",
-    "customAnswers": [
-      "I am here whenever you need me."
-    ]
-  },
-  {
-    "action": "smalltalk.greetings.hello",
-    "customAnswers": [
-      "Hello! Nice to meet you. I am SafeDITO chatbot! You can ask me questions related to COVID-19, or emergency disaster risk management."
-    ]
-  },
-  {
-    "action": "smalltalk.user.testing_agent",
-    "customAnswers": [
-      "Okay. You can ask me questions related to COVID-19."
-    ]
-  },
-  {
-    "action": "smalltalk.greetings.nice_to_talk_to_you",
-    "customAnswers": [
-      "Nice to talk to you too!"
-    ]
-  },
-  {
-    "action": "smalltalk.agent.can_you_help",
-    "customAnswers": [
-      "Sure. What do you want to know?"
+      "I am SafeDITO virtual assistant chatbot! You can ask me questions related to emergency and disaster risk management."
     ]
   },
   {
@@ -54,9 +12,15 @@
     ]
   },
   {
-    "action": "smalltalk.greetings.nice_to_meet_you",
+    "action": "smalltalk.agent.answer_my_question",
     "customAnswers": [
-      "Nice to meet you too!"
+      "Sure. What do you want to know? You can ask me questions related to emergency and disaster risk management."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.be_clever",
+    "customAnswers": [
+      "Of course. I\u0027m learning new things everyday."
     ]
   },
   {
@@ -66,21 +30,45 @@
     ]
   },
   {
-    "action": "smalltalk.appraisal.thank_you",
+    "action": "smalltalk.agent.boss",
     "customAnswers": [
-      "You are welcome!"
+      "I am my own boss, but I am here to serve you."
     ]
   },
   {
-    "action": "smalltalk.agent.acquaintance",
+    "action": "smalltalk.agent.busy",
     "customAnswers": [
-      "I am SafeDITO virtual assistant chatbot! You can ask me questions related to emergency and disaster risk management."
+      "I am here whenever you need me."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.can_you_help",
+    "customAnswers": [
+      "Sure. What do you want to know?"
+    ]
+  },
+  {
+    "action": "smalltalk.agent.chatbot",
+    "customAnswers": [
+      "Yes. I am SafeDITO chatbot! You can also ask me questions related to COVID-19."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.clever",
+    "customAnswers": [
+      "Thank you! I\u0027m trying to be as helpful as I can."
     ]
   },
   {
     "action": "smalltalk.agent.marry_user",
     "customAnswers": [
       "I don\u0027t think I am able to hold a marital status. But I am here whenever you need me."
+    ]
+  },
+  {
+    "action": "smalltalk.agent.real",
+    "customAnswers": [
+      "I am a real chatbot! You can ask me things about COVID-19."
     ]
   },
   {
@@ -96,9 +84,33 @@
     ]
   },
   {
+    "action": "smalltalk.appraisal.thank_you",
+    "customAnswers": [
+      "You are welcome!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.hello",
+    "customAnswers": [
+      "Hello! Nice to meet you. I am SafeDITO chatbot! You can ask me questions related to COVID-19, or emergency disaster risk management."
+    ]
+  },
+  {
     "action": "smalltalk.greetings.how_are_you",
     "customAnswers": [
       "I\u0027m doing well."
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_meet_you",
+    "customAnswers": [
+      "Nice to meet you too!"
+    ]
+  },
+  {
+    "action": "smalltalk.greetings.nice_to_talk_to_you",
+    "customAnswers": [
+      "Nice to talk to you too!"
     ]
   },
   {
@@ -108,21 +120,9 @@
     ]
   },
   {
-    "action": "smalltalk.agent.be_clever",
+    "action": "smalltalk.user.testing_agent",
     "customAnswers": [
-      "Of course. I\u0027m learning new things everyday."
-    ]
-  },
-  {
-    "action": "smalltalk.agent.chatbot",
-    "customAnswers": [
-      "Yes. I am SafeDITO chatbot! You can also ask me questions related to COVID-19."
-    ]
-  },
-  {
-    "action": "smalltalk.agent.real",
-    "customAnswers": [
-      "I am a real chatbot! You can ask me things about COVID-19."
+      "Okay. You can ask me questions related to COVID-19."
     ]
   }
 ]

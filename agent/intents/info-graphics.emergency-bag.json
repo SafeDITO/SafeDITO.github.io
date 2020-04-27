@@ -1,0 +1,41 @@
+{
+  "id": "72587289-dc68-4f98-9a90-041c628c3b48",
+  "name": "info-graphics.emergency-bag",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "type": "image",
+                  "accessibilityText": "Emergency Bag",
+                  "rawUrl": "https://raw.githubusercontent.com/SafeDITO/SafeDITO.github.io/master/images/info-graphics/Go-Bag.jpg"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

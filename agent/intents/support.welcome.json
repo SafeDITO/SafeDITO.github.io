@@ -25,12 +25,12 @@
             "richContent": [
               [
                 {
+                  "title": "Hi. My name is SafeDITO and I\u0027m your virtual assistant for disaster risk management. How can I help?",
                   "type": "description",
                   "text": [
                     "You can ask me questions related to COVID-19. You can also choose from pre-defined options below.",
-                    "If you are experiencing a life threatening emergency, please call 911. For medical advice, please contact Maxicare (02) 85821980 or email safe@dito.ph."
-                  ],
-                  "title": "Hi. My name is SafeDITO and I\u0027m your virtual assistant for disaster risk management. How can I help?"
+                    "If you are experiencing a life threatening emergency, please call 911. For medical advice, please contact Maxicare (02) 85821980"
+                  ]
                 }
               ],
               [
@@ -38,24 +38,29 @@
                   "type": "chips",
                   "options": [
                     {
+                      "image": {},
                       "text": "Start Health Screening",
+                      "link": ""
+                    },
+                    {
+                      "text": "Ask Questions",
+                      "link": "",
+                      "image": {}
+                    },
+                    {
+                      "text": "Official Sources",
                       "link": "",
                       "image": {}
                     },
                     {
                       "link": "",
                       "image": {},
-                      "text": "Ask Questions"
+                      "text": "Info Graphics"
                     },
                     {
+                      "text": "How many COVID-19 confirmed cases worldwide?",
                       "link": "",
-                      "image": {},
-                      "text": "Emergency Hotlines"
-                    },
-                    {
-                      "link": "",
-                      "image": {},
-                      "text": "How many COVID-19 confirmed cases worldwide?"
+                      "image": {}
                     }
                   ]
                 }

@@ -28,7 +28,7 @@
                   "type": "description",
                   "text": [
                     "You can ask me questions related to COVID-19. You can also choose from pre-defined options below.",
-                    "If you are experiencing a life threatening emergency, please call 911. For medical advice, please contact Maxicare (02) 85821980 or email safe@dito.ph."
+                    "If you are experiencing a life threatening emergency, please call 911. For medical advice, please contact Maxicare (02) 85821980"
                   ],
                   "title": "Hi. My name is SafeDITO and I\u0027m your virtual assistant for disaster risk management. How can I help?"
                 }
@@ -40,22 +40,22 @@
                     {
                       "link": "",
                       "image": {},
-                      "text": "Start health screening"
+                      "text": "Start Health Screening"
                     },
                     {
                       "link": "",
                       "image": {},
-                      "text": "Announcements"
-                    },
-                    {
-                      "text": "Emergency Hotlines",
-                      "link": "",
-                      "image": {}
+                      "text": "Ask Questions"
                     },
                     {
                       "image": {},
-                      "text": "I have some questions",
+                      "text": "Info Graphics",
                       "link": ""
+                    },
+                    {
+                      "link": "",
+                      "image": {},
+                      "text": "How many COVID-19 confirmed cases worldwide?"
                     }
                   ]
                 }

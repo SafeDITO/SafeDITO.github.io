@@ -1,0 +1,42 @@
+{
+  "id": "8172b9ac-531c-4a70-b3d2-e613023d5eb3",
+  "name": "info-graphics.typhoon",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 4,
+          "lang": "en",
+          "condition": "",
+          "payload": {
+            "richContent": [
+              [
+                {
+                  "link": "https://example.com",
+                  "rawUrl": "https://raw.githubusercontent.com/SafeDITO/SafeDITO.github.io/master/images/info-graphics/Tropical-Cyclone.jpg",
+                  "type": "image",
+                  "accessibilityText": "Earthquake"
+                }
+              ]
+            ]
+          }
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

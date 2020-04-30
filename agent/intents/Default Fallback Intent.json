@@ -17,11 +17,11 @@
             "richContent": [
               [
                 {
-                  "title": "Ooops, sorry I don\u0027t know how to answer that. Can you try rephrasing it?",
                   "type": "description",
                   "text": [
                     "You can ask me questions or you can also choose from pre-defined options below."
-                  ]
+                  ],
+                  "title": "Ooops, sorry I don\u0027t know how to answer that. Can you try rephrasing it?"
                 }
               ],
               [
@@ -29,28 +29,28 @@
                   "type": "chips",
                   "options": [
                     {
+                      "link": "",
                       "image": {},
-                      "text": "Start Health Screening",
+                      "text": "Start Health Screening"
+                    },
+                    {
+                      "link": "",
+                      "image": {},
+                      "text": "Ask Questions"
+                    },
+                    {
+                      "image": {},
+                      "text": "Official Sources",
                       "link": ""
                     },
                     {
-                      "text": "Ask Questions",
                       "link": "",
-                      "image": {}
-                    },
-                    {
-                      "text": "Official Sources",
-                      "link": "",
-                      "image": {}
-                    },
-                    {
-                      "text": "Info Graphics",
-                      "link": "",
-                      "image": {}
+                      "image": {},
+                      "text": "Info Graphics"
                     },
                     {
                       "image": {},
-                      "text": "How many COVID-19 confirmed cases worldwide?",
+                      "text": "COVID-19 Cases Worldwide",
                       "link": ""
                     }
                   ]

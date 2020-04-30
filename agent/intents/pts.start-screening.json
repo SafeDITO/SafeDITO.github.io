@@ -23,11 +23,11 @@
             "richContent": [
               [
                 {
-                  "title": "Are you ready to get started?",
                   "type": "description",
                   "text": [
-                    "Recommendations from this bot are not medical advice. In the case of a medical emergency, please call 911. For medical advice, please contact your healthcare provider."
-                  ]
+                    "Pursuant to Republic Act 10173- Data Privacy Act of 2012, I hereby authorize DITO Telecommunity Corporation (employer) to gather, store, update and disclose my personal information in case required by the government authorities and contact details as provided above."
+                  ],
+                  "title": "Are you ready to get started?"
                 }
               ],
               [
@@ -35,14 +35,14 @@
                   "type": "chips",
                   "options": [
                     {
-                      "link": "",
-                      "image": {},
-                      "text": "Yes"
-                    },
-                    {
-                      "text": "No",
+                      "text": "Yes",
                       "link": "",
                       "image": {}
+                    },
+                    {
+                      "image": {},
+                      "text": "No",
+                      "link": ""
                     }
                   ]
                 }

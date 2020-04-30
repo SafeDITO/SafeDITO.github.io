@@ -29,7 +29,7 @@
                   "type": "description",
                   "text": [
                     "You can ask me questions related to COVID-19. You can also choose from pre-defined options below.",
-                    "If you are experiencing a life threatening emergency, please call 911. For medical advice, please contact Maxicare (02) 85821980"
+                    "DISCLAIMER: Recommendation from this bot are not medical advice. In the case of emergency, please call 911. For medical advice, please contact Maxicare (02) 85821980 or email safe@dito.ph"
                   ]
                 }
               ],
@@ -38,9 +38,9 @@
                   "type": "chips",
                   "options": [
                     {
+                      "text": "Start Health Screening",
                       "link": "",
-                      "image": {},
-                      "text": "Start Health Screening"
+                      "image": {}
                     },
                     {
                       "image": {},
@@ -48,17 +48,17 @@
                       "link": ""
                     },
                     {
-                      "text": "Official Sources",
-                      "link": "",
-                      "image": {}
-                    },
-                    {
                       "link": "",
                       "image": {},
-                      "text": "Info Graphics"
+                      "text": "Official Sources"
                     },
                     {
-                      "text": "How many COVID-19 confirmed cases worldwide?",
+                      "image": {},
+                      "text": "Info Graphics",
+                      "link": ""
+                    },
+                    {
+                      "text": "COVID-19 Cases Worldwide",
                       "link": "",
                       "image": {}
                     }

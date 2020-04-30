@@ -17,9 +17,9 @@
             "richContent": [
               [
                 {
-                  "title": "Go ahead, you can ask anything...",
                   "subtitle": "Please understand that I\u0027m still learning new words everyday, and I may not answer your questions correctly.",
-                  "type": "info"
+                  "type": "info",
+                  "title": "Go ahead, you can ask anything..."
                 },
                 {
                   "type": "chips",
@@ -29,6 +29,9 @@
                     },
                     {
                       "text": "Ask our Helpdesk"
+                    },
+                    {
+                      "text": "Latest COVID-19 PH"
                     }
                   ]
                 }

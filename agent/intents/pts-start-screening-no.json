@@ -25,12 +25,11 @@
             "richContent": [
               [
                 {
-                  "title": "Hi. My name is SafeDITO and I\u0027m your virtual assistant for disaster risk management. How can I help?",
                   "type": "description",
                   "text": [
-                    "You can ask me questions related to COVID-19. You can also choose from pre-defined options below.",
-                    "If you are experiencing a life threatening emergency, please call 911. For medical advice, please contact Maxicare (02) 85821980"
-                  ]
+                    "Thank you for your time and let’s stay connected. #DITOTayo #DITOWeCare"
+                  ],
+                  "title": "If you want to get health screening again, just let me know. "
                 }
               ],
               [
@@ -48,9 +47,9 @@
                       "image": {}
                     },
                     {
-                      "text": "Official Sources",
                       "link": "",
-                      "image": {}
+                      "image": {},
+                      "text": "Official Sources"
                     },
                     {
                       "text": "Info Graphics",
@@ -59,7 +58,7 @@
                     },
                     {
                       "image": {},
-                      "text": "How many COVID-19 confirmed cases worldwide?",
+                      "text": "COVID-19 Cases Worldwide",
                       "link": ""
                     }
                   ]

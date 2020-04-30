@@ -61,14 +61,14 @@
                       "link": ""
                     },
                     {
+                      "image": {},
                       "text": "Not satisfied",
-                      "link": "",
-                      "image": {}
+                      "link": ""
                     },
                     {
-                      "image": {},
                       "text": "I prefer not to answer",
-                      "link": ""
+                      "link": "",
+                      "image": {}
                     }
                   ]
                 }

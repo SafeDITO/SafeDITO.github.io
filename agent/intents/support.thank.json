@@ -42,9 +42,9 @@
                   "type": "chips",
                   "options": [
                     {
+                      "image": {},
                       "text": "Start Health Screening",
-                      "link": "",
-                      "image": {}
+                      "link": ""
                     },
                     {
                       "link": "",
@@ -57,12 +57,12 @@
                       "image": {}
                     },
                     {
+                      "link": "",
                       "image": {},
-                      "text": "Info Graphics",
-                      "link": ""
+                      "text": "Info Graphics"
                     },
                     {
-                      "text": "How many COVID-19 confirmed cases worldwide?",
+                      "text": "COVID-19 Cases Worldwide",
                       "link": "",
                       "image": {}
                     }

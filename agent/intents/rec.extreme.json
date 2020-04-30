@@ -25,9 +25,11 @@
             "richContent": [
               [
                 {
-                  "subtitle": "You may be having a medical emergency.  Immediate medical attention is needed.",
-                  "type": "accordion",
-                  "text": "Tell the 911 operator if you have been in contact with someone with COVID-19 or if you have recently been to an area where COVID-19 is spreading. (Source: CDC)",
+                  "type": "description",
+                  "text": [
+                    "You may be having a medical emergency.  Immediate medical attention is needed.",
+                    "Tell the 911 operator if you have been in contact with someone with COVID-19 or if you have recently been to an area where COVID-19 is spreading. (Source: CDC)"
+                  ],
                   "title": "Call 911 Now"
                 }
               ],
@@ -41,9 +43,9 @@
                       "image": {}
                     },
                     {
-                      "text": "Emergency Hotlines",
                       "link": "",
-                      "image": {}
+                      "image": {},
+                      "text": "Emergency Hotlines"
                     },
                     {
                       "text": "Please tell me more",
